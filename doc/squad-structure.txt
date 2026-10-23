@@ -1,0 +1,26 @@
+{
+    version: "Version du dataset"
+    data:[
+            {
+                title: "Titre de l'article Wikipedia"
+                paragraphs:[
+                    {
+                        context: "Paragraph de l'article"
+                        qas:[
+                            {
+                                id: "Id du pair question-réponse"
+                                question: "Question"
+                                answers:[
+                                    {
+                                        "answer_start": "Position de la réponse"
+                                        "text": "Réponse"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+    ]
+}
+

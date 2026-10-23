@@ -1,0 +1,1813 @@
+{
+    "metadata": {
+        "titre": "Questions de connaissances officielles et propositions de réponses correctes - Examen civique (Carte de résident)",
+        "auteur_reponses_suggerees": "leqcmcivique.fr",
+        "site_web": "https://leqcmcivique.fr",
+        "avertissement_legal": "Les questions sont celles publiées par le Ministère de l'Intérieur sur https://formation-civique.interieur.gouv.fr/examen-civique/liste-officielle-des-questions-de-connaissance-cr/. Les réponses proposées sont des suggestions pédagogiques indépendantes créées par leqcmcivique.fr et n'engagent en aucun cas l'État français.",
+        "licence": "Licence Ouverte 2.0 (Etalab)"
+    },
+    "data": [
+        {
+            "theme": "Principes et valeurs de la République",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Parmi les propositions suivantes, laquelle constitue une participation citoyenne ?",
+                    "suggested_answers": [
+                        "S'engager dans une association (de quartier, humanitaire...).",
+                        "Organiser une collecte pour une association humanitaire.",
+                        "Voter aux élections."
+                    ]
+                },
+                {
+                    "id": 2,
+                    "question": "Que garantit la liberté d’expression ?",
+                    "suggested_answers": [
+                        "Le droit d'exprimer ses idées et ses opinions, dans les limites de la loi.",
+                        "Le droit de donner son opinion librement.",
+                        "La possibilité de critiquer les institutions."
+                    ]
+                },
+                {
+                    "id": 3,
+                    "question": "À quoi sert un titre de séjour ?",
+                    "suggested_answers": [
+                        "À permettre à un étranger de vivre (séjourner) légalement en France.",
+                        "À prouver que l'on a le droit de rester sur le territoire français.",
+                        "À autoriser un étranger à résider et, le plus souvent, à travailler en France."
+                    ]
+                },
+                {
+                    "id": 4,
+                    "question": "La liberté de circulation permet à toute personne de :",
+                    "suggested_answers": [
+                        "Se déplacer librement partout en France."
+                    ]
+                },
+                {
+                    "id": 5,
+                    "question": "Sur quel site internet peut-on retrouver le symbole de la République française ?",
+                    "suggested_answers": [
+                        "Les sites officiels de l'État (qui se terminent souvent par .gouv.fr).",
+                        "service-public.fr",
+                        "info.gouv.fr (le site du Gouvernement).",
+                        "elysee.fr (le site du Président de la République)."
+                    ]
+                },
+                {
+                    "id": 6,
+                    "question": "Complétez ces paroles de la Marseillaise : \"Aux armes […] ! Formez vos bataillons\"",
+                    "suggested_answers": [
+                        "Citoyens"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "question": "Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie […]\"",
+                    "suggested_answers": [
+                        "Le jour de gloire est arrivé"
+                    ]
+                },
+                {
+                    "id": 8,
+                    "question": "En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :",
+                    "suggested_answers": [
+                        "Décider de son mode de vie, de ses relations et de ses projets.",
+                        "Choisir sa religion, en changer ou ne pas en avoir.",
+                        "Exprimer ses idées et ses opinions.",
+                        "Circuler librement en France."
+                    ]
+                },
+                {
+                    "id": 9,
+                    "question": "Concernant la pratique de la religion, quelle proposition est correcte ?",
+                    "suggested_answers": [
+                        "La France garantit la liberté de croire et de pratiquer sa religion.",
+                        "Chacun est libre de pratiquer la religion de son choix dans le respect de la loi.",
+                        "L'État protège la liberté de culte.",
+                        "Chacun est libre de croire, de ne pas croire ou de changer de religion."
+                    ]
+                },
+                {
+                    "id": 10,
+                    "question": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+                    "suggested_answers": [
+                        "Non, on ne peut pas refuser un cours du programme scolaire, même pour des raisons religieuses.",
+                        "Non, l'école publique est laïque et mixte.",
+                        "Non, les parents ne peuvent pas refuser cette mixité.",
+                        "Non, les filles et les garçons font du sport ensemble."
+                    ]
+                },
+                {
+                    "id": 11,
+                    "question": "Quelle est la devise de la France ?",
+                    "suggested_answers": [
+                        "Liberté, Égalité, Fraternité"
+                    ]
+                },
+                {
+                    "id": 12,
+                    "question": "La répudiation de sa femme est :",
+                    "suggested_answers": [
+                        "Interdite en France.",
+                        "Contraire au principe d'égalité entre les hommes et les femmes.",
+                        "Illégale (seul le divorce légal est autorisé)."
+                    ]
+                },
+                {
+                    "id": 13,
+                    "question": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+                    "suggested_answers": [
+                        "Les impôts servent au financement des services publics.",
+                        "Ils permettent de payer les écoles, les hôpitaux et la police.",
+                        "Ils financent les dépenses de l'État pour tous les citoyens."
+                    ]
+                },
+                {
+                    "id": 14,
+                    "question": "Peut-on brûler publiquement un drapeau français ?",
+                    "suggested_answers": [
+                        "Non, c'est une insulte au symbole de la France.",
+                        "Non, c'est interdit et puni par la loi.",
+                        "Non, le drapeau tricolore doit être respecté par tous."
+                    ]
+                },
+                {
+                    "id": 15,
+                    "question": "Que fait l’État pour lutter contre les discriminations ?",
+                    "suggested_answers": [
+                        "Il punit les actes de discrimination par la loi.",
+                        "Il prend des lois et met en place des organismes.",
+                        "Il vote des lois pour protéger l'égalité de tous et crée des institutions comme le Défenseur des droits.",
+                        "Il interdit les différences de traitement injustes (racisme, sexisme) grâce à des lois."
+                    ]
+                },
+                {
+                    "id": 16,
+                    "question": "Que représente Marianne ?",
+                    "suggested_answers": [
+                        "La République française.",
+                        "Les valeurs de la République (Liberté, Égalité, Fraternité)."
+                    ]
+                },
+                {
+                    "id": 17,
+                    "question": "Qu'est-ce que la liberté d'association ?",
+                    "suggested_answers": [
+                        "Le droit de fonder ou de participer à une association (sportive, culturelle, solidaire, etc.).",
+                        "Le droit de créer des groupes pour des activités communes.",
+                        "La possibilité de se regrouper librement pour un projet partagé."
+                    ]
+                },
+                {
+                    "id": 18,
+                    "question": "Qu'est-ce que la liberté ?",
+                    "suggested_answers": [
+                        "Pouvoir faire tout ce qui ne nuit pas à autrui.",
+                        "Avoir le droit de faire ce qu'on veut, sans faire de mal aux autres."
+                    ]
+                },
+                {
+                    "id": 19,
+                    "question": "Qu'est-ce que la Marseillaise ?",
+                    "suggested_answers": [
+                        "L'hymne national français.",
+                        "Le chant officiel de la République française."
+                    ]
+                },
+                {
+                    "id": 20,
+                    "question": "Sur quel document peut-on voir Marianne ?",
+                    "suggested_answers": [
+                        "Sur les logos des ministères et les documents officiels.",
+                        "Sur les timbres-poste."
+                    ]
+                },
+                {
+                    "id": 21,
+                    "question": "Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ?",
+                    "suggested_answers": [
+                        "La loi l'interdit."
+                    ]
+                },
+                {
+                    "id": 22,
+                    "question": "Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?",
+                    "suggested_answers": [
+                        "Que tous les citoyens ont les mêmes droits et les mêmes devoirs.",
+                        "Que la loi est la même pour tous.",
+                        "Que tous les citoyens sont égaux devant la loi."
+                    ]
+                },
+                {
+                    "id": 23,
+                    "question": "Quelle est la place de la langue française dans la République ?",
+                    "suggested_answers": [
+                        "Elle est la langue de la République.",
+                        "Le français est la langue officielle de la France."
+                    ]
+                },
+                {
+                    "id": 24,
+                    "question": "Quels sont des symboles officiels de la République française ?",
+                    "suggested_answers": [
+                        "Le drapeau tricolore, Marianne, la Marseillaise.",
+                        "Le drapeau bleu-blanc-rouge, la devise (Liberté, Égalité, Fraternité) et l'hymne national.",
+                        "Marianne, le 14 juillet et le drapeau français."
+                    ]
+                },
+                {
+                    "id": 25,
+                    "question": "A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?",
+                    "suggested_answers": [
+                        "Non, c'est une faute punie par la loi (une infraction).",
+                        "Non, c'est interdit et puni par la loi (insulter quelqu'un ou dire des choses fausses sur lui pour lui nuire).",
+                        "Non, car cela ne respecte pas la dignité de la personne."
+                    ]
+                },
+                {
+                    "id": 26,
+                    "question": "Le régime de la France est :",
+                    "suggested_answers": [
+                        "Une République démocratique.",
+                        "Une démocratie avec un Président élu par les citoyens.",
+                        "Une république semi-présidentielle."
+                    ]
+                },
+                {
+                    "id": 27,
+                    "question": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+                    "suggested_answers": [
+                        "Pour garantir la liberté de conscience des élèves (penser librement, sans pression).",
+                        "Pour garantir la neutralité de l'enseignement et l'égalité de tous les élèves.",
+                        "Pour que tous les élèves apprennent ensemble, sans distinction de religion.",
+                        "Pour protéger les enfants de toute pression religieuse."
+                    ]
+                },
+                {
+                    "id": 28,
+                    "question": "En quelle année la loi de séparation des Églises et de l'Etat a-t-elle été votée ?",
+                    "suggested_answers": [
+                        "1905"
+                    ]
+                },
+                {
+                    "id": 29,
+                    "question": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+                    "suggested_answers": [
+                        "Oui, c'est la liberté de conscience.",
+                        "Oui, chacun est libre d'avoir une religion ou de n'en avoir aucune.",
+                        "Oui, c'est un droit garanti par la laïcité."
+                    ]
+                },
+                {
+                    "id": 30,
+                    "question": "Quel droit est garanti par la laïcité ?",
+                    "suggested_answers": [
+                        "La liberté de conscience.",
+                        "La liberté de croire ou de ne pas croire.",
+                        "Le droit d'avoir une religion, d'en changer, ou de n'en avoir aucune."
+                    ]
+                },
+                {
+                    "id": 31,
+                    "question": "À l'école publique, qui peut porter des signes religieux très visibles ?",
+                    "suggested_answers": [
+                        "Les parents d'élèves.",
+                        "Les mères et les pères qui viennent chercher ou déposer leurs enfants."
+                    ]
+                },
+                {
+                    "id": 32,
+                    "question": "Selon le principe de laïcité, que signifie la neutralité de l’État ?",
+                    "suggested_answers": [
+                        "Que l'État n'a pas de religion.",
+                        "Que l'État ne favorise aucune religion et n'en paie aucune.",
+                        "Que la République est neutre avec toutes les croyances."
+                    ]
+                },
+                {
+                    "id": 33,
+                    "question": "Que peut faire un usager du service public dans une mairie ?",
+                    "suggested_answers": [
+                        "S'inscrire sur les listes électorales.",
+                        "Se marier (mariage civil).",
+                        "Déclarer la naissance d'un enfant."
+                    ]
+                },
+                {
+                    "id": 34,
+                    "question": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+                    "suggested_answers": [
+                        "Tous les agents publics."
+                    ]
+                },
+                {
+                    "id": 35,
+                    "question": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+                    "suggested_answers": [
+                        "Oui, ils doivent faire preuve de neutralité.",
+                        "Oui, l'agent public ne doit pas montrer ses opinions pour traiter tout le monde à égalité.",
+                        "Oui, un fonctionnaire doit être neutre au travail."
+                    ]
+                },
+                {
+                    "id": 36,
+                    "question": "Que garantit le principe de laïcité ?",
+                    "suggested_answers": [
+                        "La liberté de conscience (avoir ou ne pas avoir de religion, en changer).",
+                        "Le libre exercice des cultes et le respect de toutes les croyances.",
+                        "La séparation de l'État et des religions."
+                    ]
+                },
+                {
+                    "id": 37,
+                    "question": "A-t-on le droit de changer de religion ?",
+                    "suggested_answers": [
+                        "Oui, c'est un droit fondamental.",
+                        "Oui, c'est garanti par la liberté de conscience.",
+                        "Oui, toute personne est libre de changer de religion."
+                    ]
+                },
+                {
+                    "id": 38,
+                    "question": "Que représente la laïcité ?",
+                    "suggested_answers": [
+                        "Un principe essentiel de la République : l'État et les religions sont séparés.",
+                        "Le respect de toutes les religions et l'absence d'une religion d'État.",
+                        "La neutralité de l'État pour vivre ensemble en paix.",
+                        "Un principe qui garantit la liberté religieuse de chacun."
+                    ]
+                },
+                {
+                    "id": 39,
+                    "question": "Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ?",
+                    "suggested_answers": [
+                        "Porter un signe ou un vêtement qui montre sa religion de manière ostensible.",
+                        "Porter des signes religieux ostentatoires.",
+                        "Refuser un enseignement du programme scolaire à cause de sa religion."
+                    ]
+                },
+                {
+                    "id": 40,
+                    "question": "Que dit l'article 1er de la Constitution française ?",
+                    "suggested_answers": [
+                        "La France est une République indivisible, laïque, démocratique et sociale."
+                    ]
+                }
+            ]
+        },
+        {
+            "theme": "Système institutionnel et politique",
+            "questions": [
+                {
+                    "id": 41,
+                    "question": "Qu'est-ce que l'État de droit ?",
+                    "suggested_answers": [
+                        "Un système dans lequel la loi doit être respectée par tous, y compris par l'État.",
+                        "Un système où la loi s'applique à tout le monde, même au Président.",
+                        "Un système où les dirigeants doivent respecter les lois.",
+                        "Une démocratie où les droits fondamentaux (les droits les plus importants de chaque personne, comme la liberté et l'égalité) sont protégés."
+                    ]
+                },
+                {
+                    "id": 42,
+                    "question": "Le président de la République a commis un crime. Quelle proposition est correcte ?",
+                    "suggested_answers": [
+                        "Il pourra être jugé par la justice après la fin de son mandat.",
+                        "Il bénéficie d'une protection (immunité), mais sera jugé à la fin de son mandat.",
+                        "Il sera jugé comme un citoyen normal quand il ne sera plus Président."
+                    ]
+                },
+                {
+                    "id": 43,
+                    "question": "La loi est l'expression de :",
+                    "suggested_answers": [
+                        "La volonté générale.",
+                        "La volonté du peuple."
+                    ]
+                },
+                {
+                    "id": 44,
+                    "question": "Quelle est la durée du mandat du conseil municipal et du maire ?",
+                    "suggested_answers": [
+                        "6 ans"
+                    ]
+                },
+                {
+                    "id": 45,
+                    "question": "Que garantit l’État de droit ?",
+                    "suggested_answers": [
+                        "La protection des droits fondamentaux des citoyens.",
+                        "La séparation des pouvoirs et l'indépendance de la justice.",
+                        "L'égalité de tous devant la justice."
+                    ]
+                },
+                {
+                    "id": 46,
+                    "question": "Une personne peut-elle voter à la place d'une autre ?",
+                    "suggested_answers": [
+                        "Oui, avec une procuration officielle.",
+                        "C'est possible grâce au vote par procuration.",
+                        "Oui, si la personne a fait une demande officielle à l'avance (procuration)."
+                    ]
+                },
+                {
+                    "id": 47,
+                    "question": "Est-ce que le vote est obligatoire ?",
+                    "suggested_answers": [
+                        "Non, c'est un droit et un devoir civique.",
+                        "Non, voter n'est pas obligatoire en France."
+                    ]
+                },
+                {
+                    "id": 48,
+                    "question": "À la fin de son mandat, le Président de la République peut-il décider de rester au pouvoir sans élection ?",
+                    "suggested_answers": [
+                        "Non, il doit obligatoirement être réélu par les citoyens.",
+                        "Non, il faut organiser de nouvelles élections à la fin de son mandat.",
+                        "Non, son mandat dure 5 ans. Pour rester, il doit être réélu, et il ne peut pas faire plus de deux mandats de suite."
+                    ]
+                },
+                {
+                    "id": 49,
+                    "question": "Qui dirige l'action du Gouvernement ?",
+                    "suggested_answers": [
+                        "Le Premier ministre."
+                    ]
+                },
+                {
+                    "id": 50,
+                    "question": "Qui nomme le Premier ministre ?",
+                    "suggested_answers": [
+                        "Le Président de la République."
+                    ]
+                },
+                {
+                    "id": 51,
+                    "question": "Quelle est l'organisation administrative de la France ?",
+                    "suggested_answers": [
+                        "Décentralisée.",
+                        "Un État unitaire et décentralisé.",
+                        "Unitaire (avec des communes, départements et régions)."
+                    ]
+                },
+                {
+                    "id": 52,
+                    "question": "Qu'est-ce que le pouvoir législatif ? Le pouvoir :",
+                    "suggested_answers": [
+                        "d'élaborer et de voter les lois.",
+                        "de faire les lois.",
+                        "de discuter et de voter les lois."
+                    ]
+                },
+                {
+                    "id": 53,
+                    "question": "Pourquoi séparer les trois pouvoirs dans une démocratie ?",
+                    "suggested_answers": [
+                        "Pour éviter la concentration du pouvoir et garantir les libertés.",
+                        "Pour empêcher une seule personne d'avoir tout le pouvoir.",
+                        "Pour protéger les libertés des citoyens."
+                    ]
+                },
+                {
+                    "id": 54,
+                    "question": "Qui sanctionne l'auteur d'un vol ?",
+                    "suggested_answers": [
+                        "Le pouvoir judiciaire (les juges).",
+                        "La justice.",
+                        "Un juge dans un tribunal."
+                    ]
+                },
+                {
+                    "id": 55,
+                    "question": "Quel est le rôle du gouvernement ?",
+                    "suggested_answers": [
+                        "Définir la politique de la Nation et mettre en œuvre les lois.",
+                        "Déterminer et conduire la politique de la Nation.",
+                        "Appliquer les lois votées par le Parlement.",
+                        "Exécuter les lois et diriger l'administration."
+                    ]
+                },
+                {
+                    "id": 56,
+                    "question": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+                    "suggested_answers": [
+                        "Il peut perdre son poste de ministre et être jugé par la justice.",
+                        "Il peut être renvoyé du gouvernement et jugé.",
+                        "Il peut être jugé et puni par la justice, comme tout le monde."
+                    ]
+                },
+                {
+                    "id": 57,
+                    "question": "Combien de députés composent l’Assemblée nationale ?",
+                    "suggested_answers": [
+                        "577"
+                    ]
+                },
+                {
+                    "id": 58,
+                    "question": "Qui peut voter aux élections en France ?",
+                    "suggested_answers": [
+                        "Les citoyens français majeurs."
+                    ]
+                },
+                {
+                    "id": 59,
+                    "question": "Pour combien de temps sont élus les sénateurs ?",
+                    "suggested_answers": [
+                        "6 ans"
+                    ]
+                },
+                {
+                    "id": 60,
+                    "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+                    "suggested_answers": [
+                        "Législatif, exécutif, judiciaire.",
+                        "Le pouvoir de faire les lois, d'appliquer les lois et de juger."
+                    ]
+                },
+                {
+                    "id": 61,
+                    "question": "Est-ce que le président de la République a tous les pouvoirs ?",
+                    "suggested_answers": [
+                        "Non, ses pouvoirs sont limités par la Constitution et la séparation des pouvoirs.",
+                        "Non, il doit respecter la Constitution.",
+                        "Non, il partage le pouvoir avec le Parlement et les juges."
+                    ]
+                },
+                {
+                    "id": 62,
+                    "question": "Qui est le préfet ?",
+                    "suggested_answers": [
+                        "Le représentant de l'État dans le département.",
+                        "Le représentant du gouvernement dans la région ou le département.",
+                        "La personne chargée de la sécurité et de l'ordre public localement."
+                    ]
+                },
+                {
+                    "id": 63,
+                    "question": "Quelle condition est nécessaire pour voter aux élections ?",
+                    "suggested_answers": [
+                        "Être majeur et citoyen français.",
+                        "Avoir 18 ans, être Français et être inscrit sur les listes électorales.",
+                        "Avoir la nationalité française et être majeur (18 ans).",
+                        "Ne pas avoir été privé de ses droits civiques."
+                    ]
+                },
+                {
+                    "id": 64,
+                    "question": "Qui dirige la commune ?",
+                    "suggested_answers": [
+                        "Le Maire.",
+                        "Le Maire, assisté par le conseil municipal."
+                    ]
+                },
+                {
+                    "id": 65,
+                    "question": "Quel est le régime politique de la France aujourd'hui ?",
+                    "suggested_answers": [
+                        "Une République démocratique.",
+                        "Une démocratie",
+                        "Une République démocratique et laïque."
+                    ]
+                },
+                {
+                    "id": 66,
+                    "question": "Qu'est-ce que l'Hôtel de Matignon ?",
+                    "suggested_answers": [
+                        "Le siège du Premier ministre et du Gouvernement.",
+                        "La résidence officielle du Premier ministre.",
+                        "Le bureau du chef du gouvernement."
+                    ]
+                },
+                {
+                    "id": 67,
+                    "question": "Le Parlement est composé :",
+                    "suggested_answers": [
+                        "De l'Assemblée nationale et du Sénat.",
+                        "Des députés et des sénateurs.",
+                        "De deux chambres : l'Assemblée nationale (les députés) et le Sénat (les sénateurs)."
+                    ]
+                },
+                {
+                    "id": 68,
+                    "question": "Quel est le rôle du président de la République ?",
+                    "suggested_answers": [
+                        "Il est le Chef de l'État et des Armées.",
+                        "Il nomme le Premier ministre et les ministres.",
+                        "Il représente la France et commande les forces armées.",
+                        "Il veille au respect de la Constitution et dirige l'État."
+                    ]
+                },
+                {
+                    "id": 69,
+                    "question": "Quel est le rôle du Premier ministre ?",
+                    "suggested_answers": [
+                        "Diriger le Gouvernement et sa politique.",
+                        "Diriger l'action du Gouvernement et appliquer les lois.",
+                        "Prendre les décisions politiques quotidiennes avec ses ministres."
+                    ]
+                },
+                {
+                    "id": 70,
+                    "question": "Qui est le chef du Gouvernement ?",
+                    "suggested_answers": [
+                        "Le Premier Ministre."
+                    ]
+                },
+                {
+                    "id": 71,
+                    "question": "Combien y a-t-il de régions en France ?",
+                    "suggested_answers": [
+                        "18"
+                    ]
+                },
+                {
+                    "id": 72,
+                    "question": "Quel est le rôle du Défenseur des droits ?",
+                    "suggested_answers": [
+                        "Défendre les citoyens contre les abus de l'administration.",
+                        "Protéger les droits et libertés des citoyens.",
+                        "Lutter contre les discriminations et aider les usagers face aux services publics."
+                    ]
+                },
+                {
+                    "id": 73,
+                    "question": "Depuis quand l'euro est-elle la monnaie unique ?",
+                    "suggested_answers": [
+                        "2002"
+                    ]
+                },
+                {
+                    "id": 74,
+                    "question": "Quel est le rôle principal du département ?",
+                    "suggested_answers": [
+                        "Gérer les routes départementales et l'action sociale.",
+                        "L'action sociale (aide aux personnes âgées, RSA) et les collèges.",
+                        "Verser les aides sociales et entretenir les routes et les bâtiments des collèges."
+                    ]
+                },
+                {
+                    "id": 75,
+                    "question": "Quel est le rôle principal des communes ?",
+                    "suggested_answers": [
+                        "La gestion des services de proximité (état civil, écoles primaires).",
+                        "Gérer l'état civil, les permis de construire et les écoles maternelles et primaires.",
+                        "S'occuper de la vie locale, de la propreté, des écoles et des mariages."
+                    ]
+                },
+                {
+                    "id": 76,
+                    "question": "Combien de communes environ existe-t-il en France ?",
+                    "suggested_answers": [
+                        "35 000"
+                    ]
+                },
+                {
+                    "id": 77,
+                    "question": "Quel traité concerne la construction de l'Union européenne ?",
+                    "suggested_answers": [
+                        "Le Traité de Maastricht."
+                    ]
+                },
+                {
+                    "id": 78,
+                    "question": "Quel État a quitté l'Union européenne en 2020 ?",
+                    "suggested_answers": [
+                        "Le Royaume-Uni"
+                    ]
+                },
+                {
+                    "id": 79,
+                    "question": "Quelle est la devise de l’Union européenne ?",
+                    "suggested_answers": [
+                        "Unie dans la diversité."
+                    ]
+                },
+                {
+                    "id": 80,
+                    "question": "Quel est l'hymne de l'Union européenne ?",
+                    "suggested_answers": [
+                        "L'Ode à la Joie."
+                    ]
+                },
+                {
+                    "id": 81,
+                    "question": "De quoi est composé le drapeau européen ?",
+                    "suggested_answers": [
+                        "D'étoiles sur fond bleu.",
+                        "De 12 étoiles jaunes placées en cercle.",
+                        "De douze étoiles jaunes sur un fond bleu."
+                    ]
+                },
+                {
+                    "id": 82,
+                    "question": "De quelle couleur est le drapeau européen ?",
+                    "suggested_answers": [
+                        "Bleu"
+                    ]
+                },
+                {
+                    "id": 83,
+                    "question": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+                    "suggested_answers": [
+                        "1992"
+                    ]
+                },
+                {
+                    "id": 84,
+                    "question": "Où est le siège du Parlement européen ?",
+                    "suggested_answers": [
+                        "Strasbourg"
+                    ]
+                },
+                {
+                    "id": 85,
+                    "question": "Où est le siège de la Commission européenne ?",
+                    "suggested_answers": [
+                        "Bruxelles"
+                    ]
+                },
+                {
+                    "id": 86,
+                    "question": "Quel État n'est pas membre de l'Union européenne ?",
+                    "suggested_answers": [
+                        "La Norvège.",
+                        "La Suisse.",
+                        "Le Royaume-Uni",
+                        "L'Islande."
+                    ]
+                },
+                {
+                    "id": 87,
+                    "question": "Quand célèbre-t-on la journée de l'Europe ?",
+                    "suggested_answers": [
+                        "Le 9 mai"
+                    ]
+                },
+                {
+                    "id": 88,
+                    "question": "À quelle fréquence les élections européennes sont-elles organisées ?",
+                    "suggested_answers": [
+                        "Tous les 5 ans"
+                    ]
+                },
+                {
+                    "id": 89,
+                    "question": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+                    "suggested_answers": [
+                        "Être citoyen d'un pays de l'UE, résider en France et avoir 18 ans.",
+                        "Avoir la nationalité d'un pays membre de l'UE et être majeur.",
+                        "Être citoyen européen, être majeur et être inscrit sur les listes électorales."
+                    ]
+                },
+                {
+                    "id": 90,
+                    "question": "Quel pays est un pays fondateur de l'Union européenne ?",
+                    "suggested_answers": [
+                        "L'Allemagne.",
+                        "La France",
+                        "L'Italie.",
+                        "La Belgique",
+                        "Les Pays-Bas",
+                        "Le Luxembourg."
+                    ]
+                }
+            ]
+        },
+        {
+            "theme": "Droits et devoirs",
+            "questions": [
+                {
+                    "id": 91,
+                    "question": "À quelle liberté la PMA fait-elle référence ?",
+                    "suggested_answers": [
+                        "La liberté de disposer de son corps (décider d'avoir un enfant).",
+                        "La liberté de fonder une famille.",
+                        "Le droit d'avoir des enfants et de créer une famille."
+                    ]
+                },
+                {
+                    "id": 92,
+                    "question": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+                    "suggested_answers": [
+                        "Au nom de l'ordre public (éviter les troubles, les violences).",
+                        "Au nom de la sécurité publique et de la protection des droits des autres.",
+                        "Pour protéger la santé publique.",
+                        "Pour assurer la sécurité de tous les citoyens."
+                    ]
+                },
+                {
+                    "id": 93,
+                    "question": "Concernant le droit de se marier, quelle proposition est correcte ?",
+                    "suggested_answers": [
+                        "Le mariage est un contrat civil, pour deux personnes majeures de même sexe ou de sexe différent.",
+                        "C'est un acte civil autorisé pour tous les couples (un homme et une femme, ou deux personnes du même sexe).",
+                        "Deux hommes ou deux femmes ont le droit de se marier à la mairie."
+                    ]
+                },
+                {
+                    "id": 94,
+                    "question": "Est-il toujours possible de divorcer ?",
+                    "suggested_answers": [
+                        "Oui, le divorce est possible et encadré par la loi.",
+                        "Oui, c'est un droit, même si l'autre époux refuse.",
+                        "Oui, il existe plusieurs procédures légales pour divorcer."
+                    ]
+                },
+                {
+                    "id": 95,
+                    "question": "La peine de mort est :",
+                    "suggested_answers": [
+                        "Abolie",
+                        "Interdite et abolie depuis 1981."
+                    ]
+                },
+                {
+                    "id": 96,
+                    "question": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?",
+                    "suggested_answers": [
+                        "\"Les hommes naissent et demeurent libres et égaux en droits.\"",
+                        "\"La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.\"",
+                        "\"Nul ne doit être inquiété pour ses opinions, même religieuses.\"",
+                        "\"Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable.\""
+                    ]
+                },
+                {
+                    "id": 97,
+                    "question": "Le recours à l'avortement est-il autorisé ?",
+                    "suggested_answers": [
+                        "Oui, sous conditions et dans le respect de la loi.",
+                        "Oui, l'interruption volontaire de grossesse (IVG) est autorisée.",
+                        "Oui, c'est une liberté garantie par la Constitution."
+                    ]
+                },
+                {
+                    "id": 98,
+                    "question": "Que contient la Constitution ?",
+                    "suggested_answers": [
+                        "Les règles de base de l'organisation de l'État et les droits des citoyens.",
+                        "Les règles qui organisent les pouvoirs publics (Président, Parlement) et nos droits.",
+                        "Dans son préambule, la Déclaration des droits de l'homme et du citoyen de 1789."
+                    ]
+                },
+                {
+                    "id": 99,
+                    "question": "Que garantit la liberté de la presse ?",
+                    "suggested_answers": [
+                        "Le droit pour les journalistes d'informer librement le public.",
+                        "La liberté de publier des informations sans contrôle avant la publication.",
+                        "La possibilité de publier des articles sans demander l'autorisation de l'État."
+                    ]
+                },
+                {
+                    "id": 100,
+                    "question": "Que prévoit la Charte de l'environnement ?",
+                    "suggested_answers": [
+                        "Le droit de vivre dans un environnement équilibré et respectueux de la santé.",
+                        "Le droit à un environnement sain.",
+                        "Le devoir de protéger la nature pour l'avenir et le droit de vivre dans un milieu sain."
+                    ]
+                },
+                {
+                    "id": 101,
+                    "question": "Que signifie la dignité humaine ?",
+                    "suggested_answers": [
+                        "Une personne ne doit jamais être traitée comme un objet ou un moyen.",
+                        "Le respect absolu de chaque être humain, peu importe ses différences.",
+                        "La reconnaissance de la valeur de chaque personne, quelles que soient ses différences."
+                    ]
+                },
+                {
+                    "id": 102,
+                    "question": "Que signifie le droit de manifester ?",
+                    "suggested_answers": [
+                        "Le droit d'exprimer publiquement son opinion, souvent en groupe, pour attirer l'attention sur une cause.",
+                        "Le droit de se rassembler dans la rue, sans violence, pour protester ou défendre une idée.",
+                        "La liberté de faire une manifestation dans le respect de la loi."
+                    ]
+                },
+                {
+                    "id": 103,
+                    "question": "Que signifie PMA ?",
+                    "suggested_answers": [
+                        "Procréation Médicalement Assistée"
+                    ]
+                },
+                {
+                    "id": 104,
+                    "question": "Quel texte est le plus difficile à modifier ?",
+                    "suggested_answers": [
+                        "La Constitution."
+                    ]
+                },
+                {
+                    "id": 105,
+                    "question": "Quelle liberté permet à une personne de croire en la religion de son choix ?",
+                    "suggested_answers": [
+                        "La liberté de conscience."
+                    ]
+                },
+                {
+                    "id": 106,
+                    "question": "Qu'est-ce que le droit de grève ?",
+                    "suggested_answers": [
+                        "Le droit pour les salariés de cesser collectivement le travail pour défendre leurs intérêts."
+                    ]
+                },
+                {
+                    "id": 107,
+                    "question": "Qu'est-ce que la Constitution ?",
+                    "suggested_answers": [
+                        "Un ensemble de règles fondamentales qui définissent comment le pays est organisé et dirigé.",
+                        "C'est le texte le plus important : il organise les pouvoirs et les droits.",
+                        "La loi la plus importante de France (la loi suprême).",
+                        "Le texte fondateur qui définit le rôle du Président, du Gouvernement et nos libertés."
+                    ]
+                },
+                {
+                    "id": 108,
+                    "question": "Qui peut demander à avorter ?",
+                    "suggested_answers": [
+                        "Toute femme enceinte, dans les conditions fixées par la loi.",
+                        "Toutes les femmes, majeures ou mineures, dans le délai autorisé par la loi.",
+                        "N'importe quelle femme qui ne souhaite pas continuer sa grossesse."
+                    ]
+                },
+                {
+                    "id": 109,
+                    "question": "Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?",
+                    "suggested_answers": [
+                        "Oui, à condition d'être inscrite sur les listes électorales.",
+                        "Oui, elle a exactement les mêmes droits de vote que les hommes.",
+                        "Oui, pour toutes les élections, si elle est inscrite à la mairie."
+                    ]
+                },
+                {
+                    "id": 110,
+                    "question": "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?",
+                    "suggested_answers": [
+                        "Il faut respecter la vie privée des autres et ne pas écrire de messages de haine.",
+                        "La loi s'applique sur internet comme dans la vraie vie (pas d'insultes, pas de racisme).",
+                        "On doit respecter les autres, car on est responsable de ce qu'on écrit ou partage.",
+                        "Avant 15 ans, on ne peut pas s'inscrire seul sur un réseau social (majorité numérique)."
+                    ]
+                },
+                {
+                    "id": 111,
+                    "question": "Jeter un mégot par terre est :",
+                    "suggested_answers": [
+                        "Une infraction (un acte interdit par la loi) et une atteinte à l'environnement.",
+                        "Un acte interdit par la loi et puni par une amende.",
+                        "Une pollution punie par une amende."
+                    ]
+                },
+                {
+                    "id": 112,
+                    "question": "L'État peut-il limiter les droits et libertés ?",
+                    "suggested_answers": [
+                        "Oui, si la loi le prévoit pour des raisons d'intérêt général.",
+                        "Oui, pour protéger la sécurité ou la santé de tous (comme pendant une épidémie).",
+                        "Oui, mais uniquement dans les cas prévus par la loi."
+                    ]
+                },
+                {
+                    "id": 113,
+                    "question": "Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l’environnement ?",
+                    "suggested_answers": [
+                        "Trier ses déchets et réduire sa consommation d'eau.",
+                        "Utiliser les transports en commun au lieu de la voiture.",
+                        "Éteindre la lumière en sortant d'une pièce."
+                    ]
+                },
+                {
+                    "id": 114,
+                    "question": "Quelle proposition constitue une obligation ?",
+                    "suggested_answers": [
+                        "Payer ses impôts.",
+                        "Déclarer ses revenus tous les ans.",
+                        "Respecter les lois de la République."
+                    ]
+                },
+                {
+                    "id": 115,
+                    "question": "Pour quel motif peut-on limiter la liberté d'expression ?",
+                    "suggested_answers": [
+                        "Pour tenir des propos racistes ou diffamatoires.",
+                        "En cas de propos racistes, d'insultes ou d'appels à la haine.",
+                        "Si les paroles attaquent la dignité d'une personne ou sa vie privée."
+                    ]
+                },
+                {
+                    "id": 116,
+                    "question": "Pourquoi doit-on trier ses déchets ?",
+                    "suggested_answers": [
+                        "Pour avoir moins de déchets jetés sans être réutilisés et pour recycler les matériaux.",
+                        "Pour protéger l'environnement et réutiliser le plastique, le papier ou le verre.",
+                        "Pour permettre le recyclage et moins polluer."
+                    ]
+                },
+                {
+                    "id": 117,
+                    "question": "Que doit faire une victime de violences ?",
+                    "suggested_answers": [
+                        "Porter plainte et se faire aider par les autorités et les associations.",
+                        "Aller au commissariat pour porter plainte.",
+                        "Appeler la police ou les numéros d'urgence et porter plainte."
+                    ]
+                },
+                {
+                    "id": 118,
+                    "question": "Que doit-on faire face aux ordres des policiers ou gendarmes ?",
+                    "suggested_answers": [
+                        "Les respecter.",
+                        "S'arrêter, rester calme et obéir à leurs consignes.",
+                        "Accepter le contrôle et respecter leurs ordres."
+                    ]
+                },
+                {
+                    "id": 119,
+                    "question": "Quel est le rôle de la police ?",
+                    "suggested_answers": [
+                        "Protéger les citoyens, maintenir l'ordre public et faire respecter la loi.",
+                        "Assurer la sécurité de tous, arrêter les auteurs de délits et de crimes, et enquêter.",
+                        "Protéger la population et arrêter ceux qui ne respectent pas la loi."
+                    ]
+                },
+                {
+                    "id": 120,
+                    "question": "Quel est un exemple d’assistance à personne en danger ?",
+                    "suggested_answers": [
+                        "Appeler les secours pour une personne qui a un malaise.",
+                        "Appeler le SAMU ou les pompiers face à un accident.",
+                        "Prévenir les secours quand quelqu'un est blessé dans la rue."
+                    ]
+                },
+                {
+                    "id": 121,
+                    "question": "Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?",
+                    "suggested_answers": [
+                        "La vaccination obligatoire des enfants.",
+                        "L'interdiction d'une manifestation quand il existe un risque de violences.",
+                        "Le port du masque pendant une épidémie.",
+                        "L'obligation de rester chez soi (confinement) pendant une crise sanitaire."
+                    ]
+                },
+                {
+                    "id": 122,
+                    "question": "Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ?",
+                    "suggested_answers": [
+                        "Donner les premiers secours et appeler les secours si nécessaire.",
+                        "Appeler la police (17) et aider la victime sans se mettre en danger.",
+                        "Alerter les forces de l'ordre pour faire arrêter les violences."
+                    ]
+                },
+                {
+                    "id": 123,
+                    "question": "Quelle est l'infraction la plus grave ?",
+                    "suggested_answers": [
+                        "Le crime."
+                    ]
+                },
+                {
+                    "id": 124,
+                    "question": "Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ?",
+                    "suggested_answers": [
+                        "Respecter la loi française.",
+                        "Obéir aux lois de la République."
+                    ]
+                },
+                {
+                    "id": 125,
+                    "question": "Quelle proposition représente un exemple de crime ?",
+                    "suggested_answers": [
+                        "Un meurtre ou un assassinat.",
+                        "Un viol.",
+                        "Un braquage (vol avec une arme).",
+                        "Un acte de terrorisme."
+                    ]
+                },
+                {
+                    "id": 126,
+                    "question": "Quelle proposition représente un exemple de délit ?",
+                    "suggested_answers": [
+                        "Un vol.",
+                        "La fraude fiscale.",
+                        "Le harcèlement moral.",
+                        "Conduire sans permis."
+                    ]
+                },
+                {
+                    "id": 127,
+                    "question": "Qui veille au maintien de l’ordre public ?",
+                    "suggested_answers": [
+                        "Les forces de l'ordre (police et gendarmerie).",
+                        "La police nationale et la gendarmerie."
+                    ]
+                },
+                {
+                    "id": 128,
+                    "question": "S'agissant des déchets, quelle proposition est correcte ?",
+                    "suggested_answers": [
+                        "Il est important de trier ses déchets pour le recyclage.",
+                        "Il est interdit de jeter ses déchets en dehors des poubelles ou dans la nature (amende).",
+                        "Depuis 2024, il faut trier ses déchets alimentaires et verts (compost)."
+                    ]
+                }
+            ]
+        },
+        {
+            "theme": "Histoire géographie et culture",
+            "questions": [
+                {
+                    "id": 129,
+                    "question": "Quel était le surnom de Louis XIV ?",
+                    "suggested_answers": [
+                        "Le Roi Soleil."
+                    ]
+                },
+                {
+                    "id": 130,
+                    "question": "Quel roi de France a été exécuté pendant la Révolution française ?",
+                    "suggested_answers": [
+                        "Louis XVI."
+                    ]
+                },
+                {
+                    "id": 131,
+                    "question": "En quelle année Napoléon Ier est-il devenu empereur ?",
+                    "suggested_answers": [
+                        "1804"
+                    ]
+                },
+                {
+                    "id": 132,
+                    "question": "Lequel de ces personnages a un lien avec la République française ?",
+                    "suggested_answers": [
+                        "Charles de Gaulle.",
+                        "Le Général de Gaulle.",
+                        "Marianne (le symbole de la République)."
+                    ]
+                },
+                {
+                    "id": 133,
+                    "question": "De quand date l'appel à la résistance du général de Gaulle ?",
+                    "suggested_answers": [
+                        "18 juin 1940."
+                    ]
+                },
+                {
+                    "id": 134,
+                    "question": "Pourquoi la Shoah est-elle étudiée à l'école ?",
+                    "suggested_answers": [
+                        "Pour comprendre l'antisémitisme et empêcher que ces crimes horribles recommencent.",
+                        "Pour ne pas oublier le génocide des Juifs et éviter que cela recommence.",
+                        "Pour lutter contre la haine, le racisme et se souvenir des victimes."
+                    ]
+                },
+                {
+                    "id": 135,
+                    "question": "Quel pays a été colonisé par la France ?",
+                    "suggested_answers": [
+                        "L'Algérie.",
+                        "Le Sénégal.",
+                        "Le Vietnam (l'Indochine).",
+                        "Madagascar."
+                    ]
+                },
+                {
+                    "id": 136,
+                    "question": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+                    "suggested_answers": [
+                        "1962"
+                    ]
+                },
+                {
+                    "id": 137,
+                    "question": "Quelle est la première étape de la construction européenne en 1951 ?",
+                    "suggested_answers": [
+                        "La création de la Communauté européenne du charbon et de l'acier (CECA).",
+                        "La mise en commun du charbon et de l'acier entre six pays."
+                    ]
+                },
+                {
+                    "id": 138,
+                    "question": "Durant le mandat de quel président la peine de mort a-t-elle été abolie ?",
+                    "suggested_answers": [
+                        "François Mitterrand"
+                    ]
+                },
+                {
+                    "id": 139,
+                    "question": "Quel régime politique a été mis en place pendant la Révolution française en 1792 ?",
+                    "suggested_answers": [
+                        "La Première République."
+                    ]
+                },
+                {
+                    "id": 140,
+                    "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+                    "suggested_answers": [
+                        "Jean Moulin.",
+                        "Le Général de Gaulle.",
+                        "Joséphine Baker."
+                    ]
+                },
+                {
+                    "id": 141,
+                    "question": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+                    "suggested_answers": [
+                        "Elles ont obtenu le droit de vote.",
+                        "Le droit de vote et le droit d'être élues."
+                    ]
+                },
+                {
+                    "id": 142,
+                    "question": "Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?",
+                    "suggested_answers": [
+                        "L'Organisation des Nations Unies (ONU).",
+                        "L'ONU."
+                    ]
+                },
+                {
+                    "id": 143,
+                    "question": "Quelle peine a été supprimée en 1981 ?",
+                    "suggested_answers": [
+                        "La peine de mort."
+                    ]
+                },
+                {
+                    "id": 144,
+                    "question": "En quelle année l'euro est-elle devenue la monnaie utilisée en France ?",
+                    "suggested_answers": [
+                        "2002"
+                    ]
+                },
+                {
+                    "id": 145,
+                    "question": "En quelle année a commencé la Première Guerre mondiale ?",
+                    "suggested_answers": [
+                        "1914"
+                    ]
+                },
+                {
+                    "id": 146,
+                    "question": "Où a eu lieu le débarquement en 1944 ?",
+                    "suggested_answers": [
+                        "En Normandie.",
+                        "Sur les plages de Normandie."
+                    ]
+                },
+                {
+                    "id": 147,
+                    "question": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?",
+                    "suggested_answers": [
+                        "L'Afrique.",
+                        "Le continent africain."
+                    ]
+                },
+                {
+                    "id": 148,
+                    "question": "Que fête-t-on le 8 mai ?",
+                    "suggested_answers": [
+                        "La Victoire de 1945.",
+                        "La fin de la Seconde Guerre mondiale en Europe.",
+                        "La victoire des Alliés contre l'Allemagne nazie."
+                    ]
+                },
+                {
+                    "id": 149,
+                    "question": "Quelle mer ou océan borde la France métropolitaine ?",
+                    "suggested_answers": [
+                        "L'océan Atlantique.",
+                        "La mer Méditerranée.",
+                        "La Manche",
+                        "La Mer du Nord."
+                    ]
+                },
+                {
+                    "id": 150,
+                    "question": "Quel pays a une frontière terrestre avec la France métropolitaine ?",
+                    "suggested_answers": [
+                        "La Suisse.",
+                        "L'Espagne.",
+                        "L'Italie.",
+                        "L'Allemagne.",
+                        "La Belgique.",
+                        "Le Luxembourg.",
+                        "Monaco.",
+                        "Andorre."
+                    ]
+                },
+                {
+                    "id": 151,
+                    "question": "Quelle ville française est un port maritime ?",
+                    "suggested_answers": [
+                        "Marseille.",
+                        "Le Havre.",
+                        "Dunkerque.",
+                        "Nantes-Saint-Nazaire."
+                    ]
+                },
+                {
+                    "id": 152,
+                    "question": "Quelle mer se situe entre la France et l'Angleterre ?",
+                    "suggested_answers": [
+                        "La Manche."
+                    ]
+                },
+                {
+                    "id": 153,
+                    "question": "Qu'est ce que la France d'outre-mer ?",
+                    "suggested_answers": [
+                        "Les territoires français situés en dehors de la France métropolitaine.",
+                        "L'ensemble des territoires français situés hors de l'Europe.",
+                        "Les territoires de la République française en dehors du continent européen."
+                    ]
+                },
+                {
+                    "id": 154,
+                    "question": "Quelle chaîne de montagnes est située entre la France et l’Espagne ?",
+                    "suggested_answers": [
+                        "Les Pyrénées."
+                    ]
+                },
+                {
+                    "id": 155,
+                    "question": "Quelle île française se trouve dans l'océan Indien ?",
+                    "suggested_answers": [
+                        "La Réunion.",
+                        "Mayotte."
+                    ]
+                },
+                {
+                    "id": 156,
+                    "question": "Quelle est la population approximative de la France en 2025 ?",
+                    "suggested_answers": [
+                        "Environ 68 millions d'habitants (68,6 millions en 2025)."
+                    ]
+                },
+                {
+                    "id": 157,
+                    "question": "Quel fleuve traverse Paris ?",
+                    "suggested_answers": [
+                        "La Seine."
+                    ]
+                },
+                {
+                    "id": 158,
+                    "question": "Lequel de ces pays partage des frontières terrestres avec la France ?",
+                    "suggested_answers": [
+                        "L'Italie.",
+                        "L'Allemagne.",
+                        "L'Espagne",
+                        "La Belgique.",
+                        "La Suisse",
+                        "Le Luxembourg.",
+                        "L'Andorre.",
+                        "Monaco.",
+                        "Le Brésil (par la Guyane).",
+                        "Le Suriname (par la Guyane)."
+                    ]
+                },
+                {
+                    "id": 159,
+                    "question": "Quel pays a une frontière avec la France métropolitaine au nord-est ?",
+                    "suggested_answers": [
+                        "L'Allemagne.",
+                        "La Belgique.",
+                        "Le Luxembourg."
+                    ]
+                },
+                {
+                    "id": 160,
+                    "question": "Où se trouvent les principales activités économiques en France ?",
+                    "suggested_answers": [
+                        "Principalement dans les grandes métropoles et les zones industrielles.",
+                        "Dans les grandes agglomérations (comme Paris, Lyon ou Marseille).",
+                        "Dans les grandes zones urbaines et industrielles."
+                    ]
+                },
+                {
+                    "id": 161,
+                    "question": "Parmi ces pays, lequel attire le plus de visiteurs chaque année ?",
+                    "suggested_answers": [
+                        "La France."
+                    ]
+                },
+                {
+                    "id": 162,
+                    "question": "Où habite la majorité des Français ?",
+                    "suggested_answers": [
+                        "Dans les grandes villes et leurs périphéries (zones urbaines).",
+                        "Dans les zones urbaines.",
+                        "Dans les agglomérations (la ville et sa banlieue)."
+                    ]
+                },
+                {
+                    "id": 163,
+                    "question": "Quelle région est la plus peuplée ?",
+                    "suggested_answers": [
+                        "L'Île-de-France."
+                    ]
+                },
+                {
+                    "id": 164,
+                    "question": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+                    "suggested_answers": [
+                        "Paris.",
+                        "Marseille.",
+                        "Lyon.",
+                        "Toulouse.",
+                        "Nice.",
+                        "Nantes.",
+                        "Montpellier.",
+                        "Strasbourg.",
+                        "Bordeaux.",
+                        "Lille."
+                    ]
+                },
+                {
+                    "id": 165,
+                    "question": "Lequel de ces départements de France est le plus touristique ?",
+                    "suggested_answers": [
+                        "Paris.",
+                        "Les Alpes-Maritimes (Nice, Cannes).",
+                        "Le Var.",
+                        "La Savoie ou la Haute-Savoie (le ski)."
+                    ]
+                },
+                {
+                    "id": 166,
+                    "question": "Quand peut-on visiter gratuitement des lieux culturels en France ?",
+                    "suggested_answers": [
+                        "Lors des Journées Européennes du Patrimoine.",
+                        "En septembre, pendant les Journées du Patrimoine.",
+                        "Lors des journées gratuites organisées par les musées publics."
+                    ]
+                },
+                {
+                    "id": 167,
+                    "question": "Combien de personnes parlent français dans le monde ?",
+                    "suggested_answers": [
+                        "Plus de 300 millions."
+                    ]
+                },
+                {
+                    "id": 168,
+                    "question": "Qui était Marguerite Yourcenar ?",
+                    "suggested_answers": [
+                        "Une écrivaine.",
+                        "La première femme élue à l'Académie française.",
+                        "Une femme de lettres",
+                        "Une romancière"
+                    ]
+                },
+                {
+                    "id": 169,
+                    "question": "Quel peintre est français ?",
+                    "suggested_answers": [
+                        "Claude Monet.",
+                        "Auguste Renoir.",
+                        "Paul Cézanne.",
+                        "Suzanne Valadon."
+                    ]
+                },
+                {
+                    "id": 170,
+                    "question": "Quel musée est situé à Paris ?",
+                    "suggested_answers": [
+                        "Le musée du Louvre.",
+                        "Le musée d'Orsay.",
+                        "Le Centre Pompidou."
+                    ]
+                },
+                {
+                    "id": 171,
+                    "question": "Qui était Auguste Rodin ?",
+                    "suggested_answers": [
+                        "Un sculpteur."
+                    ]
+                },
+                {
+                    "id": 172,
+                    "question": "Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?",
+                    "suggested_answers": [
+                        "Quatrième."
+                    ]
+                },
+                {
+                    "id": 173,
+                    "question": "Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?",
+                    "suggested_answers": [
+                        "La cathédrale Notre-Dame de Paris."
+                    ]
+                },
+                {
+                    "id": 174,
+                    "question": "Qui était une écrivaine française célèbre ?",
+                    "suggested_answers": [
+                        "Simone de Beauvoir.",
+                        "George Sand.",
+                        "Marguerite Yourcenar.",
+                        "Marguerite Duras."
+                    ]
+                },
+                {
+                    "id": 175,
+                    "question": "Qui était un célèbre musicien français ?",
+                    "suggested_answers": [
+                        "Claude Debussy.",
+                        "Maurice Ravel.",
+                        "Hector Berlioz.",
+                        "Georges Bizet."
+                    ]
+                },
+                {
+                    "id": 176,
+                    "question": "Qui était Auguste Renoir ?",
+                    "suggested_answers": [
+                        "Un peintre."
+                    ]
+                },
+                {
+                    "id": 177,
+                    "question": "Quelle fête est française ?",
+                    "suggested_answers": [
+                        "Le 14 juillet (fête nationale).",
+                        "La fête de la musique (21 juin).",
+                        "Le 1er mai (fête du Travail).",
+                        "Le 8 mai (Victoire de 1945)."
+                    ]
+                }
+            ]
+        },
+        {
+            "theme": "Vivre dans la société française",
+            "questions": [
+                {
+                    "id": 178,
+                    "question": "Quel mariage est reconnu par l'État ?",
+                    "suggested_answers": [
+                        "Le mariage civil célébré à la mairie."
+                    ]
+                },
+                {
+                    "id": 179,
+                    "question": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+                    "suggested_answers": [
+                        "La mairie."
+                    ]
+                },
+                {
+                    "id": 180,
+                    "question": "En cas de divorce, qui exerce l'autorité parentale ?",
+                    "suggested_answers": [
+                        "Les deux parents, sauf décision contraire du juge."
+                    ]
+                },
+                {
+                    "id": 181,
+                    "question": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+                    "suggested_answers": [
+                        "L'aide juridictionnelle."
+                    ]
+                },
+                {
+                    "id": 182,
+                    "question": "Où faut-il déclarer la naissance d'un enfant ?",
+                    "suggested_answers": [
+                        "À la mairie du lieu de naissance."
+                    ]
+                },
+                {
+                    "id": 183,
+                    "question": "Quelle est l'une des conditions pour passer l'examen du permis de conduire ?",
+                    "suggested_answers": [
+                        "Réussir l'examen théorique (le code de la route).",
+                        "Avoir au moins 17 ans."
+                    ]
+                },
+                {
+                    "id": 184,
+                    "question": "Un bail locatif est valide s'il est :",
+                    "suggested_answers": [
+                        "Écrit et signé par les deux parties.",
+                        "Rédigé par écrit et signé par le propriétaire et le locataire."
+                    ]
+                },
+                {
+                    "id": 185,
+                    "question": "Où peut-on déposer un lave-vaisselle cassé ?",
+                    "suggested_answers": [
+                        "Auprès d'un centre de recyclage ou d'une déchetterie.",
+                        "À la déchetterie de sa commune.",
+                        "Dans un centre de recyclage spécialisé."
+                    ]
+                },
+                {
+                    "id": 186,
+                    "question": "Quel numéro d'urgence permet d'appeler la police ?",
+                    "suggested_answers": [
+                        "17"
+                    ]
+                },
+                {
+                    "id": 187,
+                    "question": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+                    "suggested_answers": [
+                        "Toute personne vivant en France peut consulter un médecin, aller à l'hôpital ou à la pharmacie.",
+                        "L'Assurance Maladie rembourse une partie des frais de santé.",
+                        "La Sécurité sociale paie une partie des dépenses médicales."
+                    ]
+                },
+                {
+                    "id": 188,
+                    "question": "À qui est accessible la contraception ?",
+                    "suggested_answers": [
+                        "À toute personne, y compris aux mineurs.",
+                        "À toutes les personnes, quel que soit leur âge ou leur situation.",
+                        "À toute personne qui en fait la demande, même mineure."
+                    ]
+                },
+                {
+                    "id": 189,
+                    "question": "Qu’est-ce que le principe de confidentialité dans le domaine de la santé ?",
+                    "suggested_answers": [
+                        "Le secret médical concernant les informations de santé d'un patient.",
+                        "L'obligation pour le médecin de ne pas révéler les maladies de ses patients.",
+                        "Le droit au respect de la vie privée médicale."
+                    ]
+                },
+                {
+                    "id": 190,
+                    "question": "L'inscription à l'Assurance maladie est :",
+                    "suggested_answers": [
+                        "Obligatoire pour toute personne résidant en France.",
+                        "Une obligation légale pour les résidents stables et réguliers."
+                    ]
+                },
+                {
+                    "id": 191,
+                    "question": "Qui peut demander un congé parental d'éducation ?",
+                    "suggested_answers": [
+                        "Les pères et les mères salariés qui élèvent un enfant.",
+                        "Les deux parents (le père ou la mère) qui travaillent.",
+                        "Le père comme la mère, pour s'occuper d'un enfant après sa naissance."
+                    ]
+                },
+                {
+                    "id": 192,
+                    "question": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+                    "suggested_answers": [
+                        "Les litiges entre un salarié et son employeur.",
+                        "Les conflits du travail entre le patron et l'employé.",
+                        "Les problèmes liés au contrat de travail ou au licenciement."
+                    ]
+                },
+                {
+                    "id": 193,
+                    "question": "Travailler sans être déclaré est :",
+                    "suggested_answers": [
+                        "Un travail au noir, illégal et puni par la loi.",
+                        "Un délit appelé \"travail dissimulé\"."
+                    ]
+                },
+                {
+                    "id": 194,
+                    "question": "Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :",
+                    "suggested_answers": [
+                        "Il peut demander des heures supplémentaires, en respectant la loi (nombre maximum d'heures, salaire plus élevé)."
+                    ]
+                },
+                {
+                    "id": 195,
+                    "question": "Quelle est la mission de France Travail ?",
+                    "suggested_answers": [
+                        "Accompagner les demandeurs d'emploi et les employeurs.",
+                        "Aider les chômeurs à trouver du travail et les entreprises à recruter.",
+                        "Verser les allocations chômage et orienter les chercheurs d'emploi."
+                    ]
+                },
+                {
+                    "id": 196,
+                    "question": "Dans une entreprise, le droit syndical permet :",
+                    "suggested_answers": [
+                        "Aux salariés de se regrouper pour défendre leurs droits et intérêts professionnels.",
+                        "De créer un syndicat ou de devenir membre d'un syndicat pour protéger les travailleurs.",
+                        "Aux employés de discuter ensemble avec l'employeur pour obtenir des accords."
+                    ]
+                },
+                {
+                    "id": 197,
+                    "question": "Dans une entreprise, le droit de grève autorise :",
+                    "suggested_answers": [
+                        "L'arrêt collectif et concerté du travail pour soutenir des revendications professionnelles.",
+                        "De cesser le travail en groupe pour demander de meilleures conditions.",
+                        "L'arrêt du travail par un groupe de salariés."
+                    ]
+                },
+                {
+                    "id": 198,
+                    "question": "Quelles sont les conditions pour toucher les allocations chômage ?",
+                    "suggested_answers": [
+                        "Avoir travaillé suffisamment longtemps avant de perdre son travail de façon involontaire.",
+                        "Avoir perdu son emploi (licenciement, fin de contrat), être inscrit à France Travail et chercher activement un emploi."
+                    ]
+                },
+                {
+                    "id": 199,
+                    "question": "Qu'est-ce que l'école maternelle ?",
+                    "suggested_answers": [
+                        "Le début de la scolarité obligatoire (à partir de 3 ans) avant l'école élémentaire.",
+                        "La première école pour les enfants de 3 à 5 ans.",
+                        "La première étape de l'école pour les enfants avant l'âge de 6 ans."
+                    ]
+                },
+                {
+                    "id": 200,
+                    "question": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+                    "suggested_answers": [
+                        "Le brevet des collèges.",
+                        "Le Diplôme National du Brevet (DNB).",
+                        "Le brevet."
+                    ]
+                },
+                {
+                    "id": 201,
+                    "question": "Les parents d'élève ont le droit de :",
+                    "suggested_answers": [
+                        "Se porter candidat aux élections des représentants de parents d'élèves (ou voter à ces élections).",
+                        "Rejoindre une association de parents d'élèves.",
+                        "Demander un rendez-vous avec les enseignants pour discuter de la scolarité de leur enfant."
+                    ]
+                },
+                {
+                    "id": 202,
+                    "question": "Qui peut manger à la cantine scolaire ?",
+                    "suggested_answers": [
+                        "Tous les enfants inscrits à l'école, sans discrimination.",
+                        "Les élèves et le personnel de l'établissement scolaire.",
+                        "Les enfants inscrits à l'école, les enseignants et le personnel."
+                    ]
+                },
+                {
+                    "id": 203,
+                    "question": "À quel âge commence l'instruction obligatoire des enfants ?",
+                    "suggested_answers": [
+                        "3 ans"
+                    ]
+                },
+                {
+                    "id": 204,
+                    "question": "Quel est l'âge de la majorité ?",
+                    "suggested_answers": [
+                        "18 ans"
+                    ]
+                },
+                {
+                    "id": 205,
+                    "question": "À l'école, il est interdit aux parents de :",
+                    "suggested_answers": [
+                        "Refuser, pour des raisons religieuses, un enseignement du programme ou une règle de l'école.",
+                        "Perturber les cours ou faire du bruit dans l'établissement.",
+                        "Interrompre le maître ou la maîtresse pendant la leçon."
+                    ]
+                },
+                {
+                    "id": 206,
+                    "question": "Quel motif d'absence est accepté par l'école ?",
+                    "suggested_answers": [
+                        "Une raison de santé (maladie de l'enfant).",
+                        "Une raison familiale (mariage, enterrement)."
+                    ]
+                },
+                {
+                    "id": 207,
+                    "question": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+                    "suggested_answers": [
+                        "Une amende de 7 500 euros et 6 mois d'emprisonnement."
+                    ]
+                },
+                {
+                    "id": 208,
+                    "question": "Quand ont lieu les vacances scolaires de Noël ?",
+                    "suggested_answers": [
+                        "Fin décembre et début janvier."
+                    ]
+                },
+                {
+                    "id": 209,
+                    "question": "À l'école, un enfant en situation de handicap :",
+                    "suggested_answers": [
+                        "Peut avoir un emploi du temps aménagé pour suivre ses soins.",
+                        "A les mêmes droits à l'éducation que tous les enfants.",
+                        "Doit être accueilli à l'école publique comme les autres enfants.",
+                        "A le droit d'aller à l'école avec des aides adaptées à ses besoins."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2719 @@
+[
+  {
+    "id": "eb13951ed25c3205",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Parmi les propositions suivantes, laquelle constitue une participation citoyenne ?\nRéponses :\n- S'engager dans une association (de quartier, humanitaire...).\n- Organiser une collecte pour une association humanitaire.\n- Voter aux élections.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Parmi les propositions suivantes, laquelle constitue une participation citoyenne ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 1,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "2c34aed29d7fc773",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Que garantit la liberté d'expression ?\nRéponses :\n- Le droit d'exprimer ses idées et ses opinions, dans les limites de la loi.\n- Le droit de donner son opinion librement.\n- La possibilité de critiquer les institutions.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que garantit la liberté d'expression ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 2,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "efa83172ca65ad71",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : À quoi sert un titre de séjour ?\nRéponses :\n- À permettre à un étranger de vivre (séjourner) légalement en France.\n- À prouver que l'on a le droit de rester sur le territoire français.\n- À autoriser un étranger à résider et, le plus souvent, à travailler en France.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À quoi sert un titre de séjour ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 3,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "36118f5ecb4d0104",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : La liberté de circulation permet à toute personne de :\nRéponses :\n- Se déplacer librement partout en France.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "La liberté de circulation permet à toute personne de :",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 4,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "d8c6a43a69f21534",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Sur quel site internet peut-on retrouver le symbole de la République française ?\nRéponses :\n- Les sites officiels de l'État (qui se terminent souvent par .gouv.fr).\n- service-public.fr\n- info.gouv.fr (le site du Gouvernement).\n- elysee.fr (le site du Président de la République).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Sur quel site internet peut-on retrouver le symbole de la République française ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 5,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ad8f226e8785b9c4",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Complétez ces paroles de la Marseillaise : \"Aux armes [...] ! Formez vos bataillons\"\nRéponses :\n- Citoyens",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Complétez ces paroles de la Marseillaise : \"Aux armes [...] ! Formez vos bataillons\"",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 6,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "372ec06234b9dc36",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie [...]\"\nRéponses :\n- Le jour de gloire est arrivé",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie [...]\"",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 7,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "a5b7441fa6469f0a",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :\nRéponses :\n- Décider de son mode de vie, de ses relations et de ses projets.\n- Choisir sa religion, en changer ou ne pas en avoir.\n- Exprimer ses idées et ses opinions.\n- Circuler librement en France.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 8,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0389539011472bca",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Concernant la pratique de la religion, quelle proposition est correcte ?\nRéponses :\n- La France garantit la liberté de croire et de pratiquer sa religion.\n- Chacun est libre de pratiquer la religion de son choix dans le respect de la loi.\n- L'État protège la liberté de culte.\n- Chacun est libre de croire, de ne pas croire ou de changer de religion.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Concernant la pratique de la religion, quelle proposition est correcte ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 9,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "f73507b29b3aa20f",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?\nRéponses :\n- Non, on ne peut pas refuser un cours du programme scolaire, même pour des raisons religieuses.\n- Non, l'école publique est laïque et mixte.\n- Non, les parents ne peuvent pas refuser cette mixité.\n- Non, les filles et les garçons font du sport ensemble.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 10,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "1e0050c80791aebb",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Quelle est la devise de la France ?\nRéponses :\n- Liberté, Égalité, Fraternité",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est la devise de la France ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 11,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c5db8ec7cf2e296d",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : La répudiation de sa femme est :\nRéponses :\n- Interdite en France.\n- Contraire au principe d'égalité entre les hommes et les femmes.\n- Illégale (seul le divorce légal est autorisé).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "La répudiation de sa femme est :",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 12,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "b8fbce9e0027bd32",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?\nRéponses :\n- Les impôts servent au financement des services publics.\n- Ils permettent de payer les écoles, les hôpitaux et la police.\n- Ils financent les dépenses de l'État pour tous les citoyens.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 13,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "9fe8149177fcfd29",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Peut-on brûler publiquement un drapeau français ?\nRéponses :\n- Non, c'est une insulte au symbole de la France.\n- Non, c'est interdit et puni par la loi.\n- Non, le drapeau tricolore doit être respecté par tous.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Peut-on brûler publiquement un drapeau français ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 14,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c03ef5cf567d3218",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Que fait l'État pour lutter contre les discriminations ?\nRéponses :\n- Il punit les actes de discrimination par la loi.\n- Il prend des lois et met en place des organismes.\n- Il vote des lois pour protéger l'égalité de tous et crée des institutions comme le Défenseur des droits.\n- Il interdit les différences de traitement injustes (racisme, sexisme) grâce à des lois.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que fait l'État pour lutter contre les discriminations ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 15,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "befd3a4d46a406f6",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Que représente Marianne ?\nRéponses :\n- La République française.\n- Les valeurs de la République (Liberté, Égalité, Fraternité).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que représente Marianne ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 16,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "27dfd5d1f3690c90",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Qu'est-ce que la liberté d'association ?\nRéponses :\n- Le droit de fonder ou de participer à une association (sportive, culturelle, solidaire, etc.).\n- Le droit de créer des groupes pour des activités communes.\n- La possibilité de se regrouper librement pour un projet partagé.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que la liberté d'association ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 17,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "d8496cf9ded818fa",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Qu'est-ce que la liberté ?\nRéponses :\n- Pouvoir faire tout ce qui ne nuit pas à autrui.\n- Avoir le droit de faire ce qu'on veut, sans faire de mal aux autres.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que la liberté ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 18,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "29b993eed2d0d14b",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Qu'est-ce que la Marseillaise ?\nRéponses :\n- L'hymne national français.\n- Le chant officiel de la République française.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que la Marseillaise ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 19,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "1abdbe2f6c5fa1bc",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Sur quel document peut-on voir Marianne ?\nRéponses :\n- Sur les logos des ministères et les documents officiels.\n- Sur les timbres-poste.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Sur quel document peut-on voir Marianne ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 20,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "6a508ca268da6afe",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?\nRéponses :\n- La loi l'interdit.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 21,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "a37cc1eb6fe8aba5",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?\nRéponses :\n- Que tous les citoyens ont les mêmes droits et les mêmes devoirs.\n- Que la loi est la même pour tous.\n- Que tous les citoyens sont égaux devant la loi.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 22,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "10e0814acf5a0ceb",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Quelle est la place de la langue française dans la République ?\nRéponses :\n- Elle est la langue de la République.\n- Le français est la langue officielle de la France.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est la place de la langue française dans la République ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 23,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "802b8603ea2a1184",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Quels sont des symboles officiels de la République française ?\nRéponses :\n- Le drapeau tricolore, Marianne, la Marseillaise.\n- Le drapeau bleu-blanc-rouge, la devise (Liberté, Égalité, Fraternité) et l'hymne national.\n- Marianne, le 14 juillet et le drapeau français.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quels sont des symboles officiels de la République française ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 24,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "d1f270340575cfb6",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe...) ?\nRéponses :\n- Non, c'est une faute punie par la loi (une infraction).\n- Non, c'est interdit et puni par la loi (insulter quelqu'un ou dire des choses fausses sur lui pour lui nuire).\n- Non, car cela ne respecte pas la dignité de la personne.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe...) ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 25,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "8c66337ad10e8c45",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Le régime de la France est :\nRéponses :\n- Une République démocratique.\n- Une démocratie avec un Président élu par les citoyens.\n- Une république semi-présidentielle.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Le régime de la France est :",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 26,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "fb57e63e33b1cd4a",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Pourquoi le principe de laïcité doit-il être respecté à l'école ?\nRéponses :\n- Pour garantir la liberté de conscience des élèves (penser librement, sans pression).\n- Pour garantir la neutralité de l'enseignement et l'égalité de tous les élèves.\n- Pour que tous les élèves apprennent ensemble, sans distinction de religion.\n- Pour protéger les enfants de toute pression religieuse.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 27,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "39d9c83ac87df475",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : En quelle année la loi de séparation des Églises et de l'Etat a-t-elle été votée ?\nRéponses :\n- 1905",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En quelle année la loi de séparation des Églises et de l'Etat a-t-elle été votée ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 28,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "bd2e31c3e13f8025",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Une personne a-t-elle le droit de ne pas croire en une religion ?\nRéponses :\n- Oui, c'est la liberté de conscience.\n- Oui, chacun est libre d'avoir une religion ou de n'en avoir aucune.\n- Oui, c'est un droit garanti par la laïcité.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 29,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ce91a90baab24f70",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Quel droit est garanti par la laïcité ?\nRéponses :\n- La liberté de conscience.\n- La liberté de croire ou de ne pas croire.\n- Le droit d'avoir une religion, d'en changer, ou de n'en avoir aucune.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel droit est garanti par la laïcité ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 30,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "74920745ca39eff1",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : À l'école publique, qui peut porter des signes religieux très visibles ?\nRéponses :\n- Les parents d'élèves.\n- Les mères et les pères qui viennent chercher ou déposer leurs enfants.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À l'école publique, qui peut porter des signes religieux très visibles ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 31,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e75e8c2f5e47b7cb",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Selon le principe de laïcité, que signifie la neutralité de l'État ?\nRéponses :\n- Que l'État n'a pas de religion.\n- Que l'État ne favorise aucune religion et n'en paie aucune.\n- Que la République est neutre avec toutes les croyances.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Selon le principe de laïcité, que signifie la neutralité de l'État ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 32,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "6531330399353a73",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Que peut faire un usager du service public dans une mairie ?\nRéponses :\n- S'inscrire sur les listes électorales.\n- Se marier (mariage civil).\n- Déclarer la naissance d'un enfant.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que peut faire un usager du service public dans une mairie ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 33,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "51da98a4e367bd07",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Qui doit respecter le principe de neutralité religieuse dans une préfecture ?\nRéponses :\n- Tous les agents publics.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 34,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ac39f6c9b92c8661",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?\nRéponses :\n- Oui, ils doivent faire preuve de neutralité.\n- Oui, l'agent public ne doit pas montrer ses opinions pour traiter tout le monde à égalité.\n- Oui, un fonctionnaire doit être neutre au travail.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 35,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "da61ac8cfd6a0987",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Que garantit le principe de laïcité ?\nRéponses :\n- La liberté de conscience (avoir ou ne pas avoir de religion, en changer).\n- Le libre exercice des cultes et le respect de toutes les croyances.\n- La séparation de l'État et des religions.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que garantit le principe de laïcité ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 36,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "621aae3248f6b3b3",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : A-t-on le droit de changer de religion ?\nRéponses :\n- Oui, c'est un droit fondamental.\n- Oui, c'est garanti par la liberté de conscience.\n- Oui, toute personne est libre de changer de religion.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "A-t-on le droit de changer de religion ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 37,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "f34389a88be554bb",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Que représente la laïcité ?\nRéponses :\n- Un principe essentiel de la République : l'État et les religions sont séparés.\n- Le respect de toutes les religions et l'absence d'une religion d'État.\n- La neutralité de l'État pour vivre ensemble en paix.\n- Un principe qui garantit la liberté religieuse de chacun.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que représente la laïcité ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 38,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "26bf76a91c6e7478",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ?\nRéponses :\n- Porter un signe ou un vêtement qui montre sa religion de manière ostensible.\n- Porter des signes religieux ostentatoires.\n- Refuser un enseignement du programme scolaire à cause de sa religion.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 39,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "a3ca4d3f191e5143",
+    "text": "Thème : Principes et valeurs de la République\nQuestion : Que dit l'article 1er de la Constitution française ?\nRéponses :\n- La France est une République indivisible, laïque, démocratique et sociale.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que dit l'article 1er de la Constitution française ?",
+      "date": null,
+      "theme": "Principes et valeurs de la République",
+      "question_id": 40,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ee7705443b2ccee8",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qu'est-ce que l'État de droit ?\nRéponses :\n- Un système dans lequel la loi doit être respectée par tous, y compris par l'État.\n- Un système où la loi s'applique à tout le monde, même au Président.\n- Un système où les dirigeants doivent respecter les lois.\n- Une démocratie où les droits fondamentaux (les droits les plus importants de chaque personne, comme la liberté et l'égalité) sont protégés.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que l'État de droit ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 41,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e1b3af5022cd7262",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Le président de la République a commis un crime. Quelle proposition est correcte ?\nRéponses :\n- Il pourra être jugé par la justice après la fin de son mandat.\n- Il bénéficie d'une protection (immunité), mais sera jugé à la fin de son mandat.\n- Il sera jugé comme un citoyen normal quand il ne sera plus Président.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Le président de la République a commis un crime. Quelle proposition est correcte ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 42,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ca5328f5b361737b",
+    "text": "Thème : Système institutionnel et politique\nQuestion : La loi est l'expression de :\nRéponses :\n- La volonté générale.\n- La volonté du peuple.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "La loi est l'expression de :",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 43,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "7690efee4597d0bf",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quelle est la durée du mandat du conseil municipal et du maire ?\nRéponses :\n- 6 ans",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est la durée du mandat du conseil municipal et du maire ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 44,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "440e59c8fb940a91",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Que garantit l'État de droit ?\nRéponses :\n- La protection des droits fondamentaux des citoyens.\n- La séparation des pouvoirs et l'indépendance de la justice.\n- L'égalité de tous devant la justice.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que garantit l'État de droit ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 45,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "b8e4a565d4070c81",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Une personne peut-elle voter à la place d'une autre ?\nRéponses :\n- Oui, avec une procuration officielle.\n- C'est possible grâce au vote par procuration.\n- Oui, si la personne a fait une demande officielle à l'avance (procuration).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Une personne peut-elle voter à la place d'une autre ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 46,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "94b49fb55648805b",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Est-ce que le vote est obligatoire ?\nRéponses :\n- Non, c'est un droit et un devoir civique.\n- Non, voter n'est pas obligatoire en France.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Est-ce que le vote est obligatoire ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 47,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "75e04eb5025eb9ef",
+    "text": "Thème : Système institutionnel et politique\nQuestion : À la fin de son mandat, le Président de la République peut-il décider de rester au pouvoir sans élection ?\nRéponses :\n- Non, il doit obligatoirement être réélu par les citoyens.\n- Non, il faut organiser de nouvelles élections à la fin de son mandat.\n- Non, son mandat dure 5 ans. Pour rester, il doit être réélu, et il ne peut pas faire plus de deux mandats de suite.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À la fin de son mandat, le Président de la République peut-il décider de rester au pouvoir sans élection ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 48,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "184fa229aa9b01ba",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qui dirige l'action du Gouvernement ?\nRéponses :\n- Le Premier ministre.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui dirige l'action du Gouvernement ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 49,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "5c158409214571f1",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qui nomme le Premier ministre ?\nRéponses :\n- Le Président de la République.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui nomme le Premier ministre ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 50,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "153ed7a05ace22ce",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quelle est l'organisation administrative de la France ?\nRéponses :\n- Décentralisée.\n- Un État unitaire et décentralisé.\n- Unitaire (avec des communes, départements et régions).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est l'organisation administrative de la France ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 51,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "fc701b8f76f50a98",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qu'est-ce que le pouvoir législatif ? Le pouvoir :\nRéponses :\n- d'élaborer et de voter les lois.\n- de faire les lois.\n- de discuter et de voter les lois.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que le pouvoir législatif ? Le pouvoir :",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 52,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "b91d95a5eed09c9c",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Pourquoi séparer les trois pouvoirs dans une démocratie ?\nRéponses :\n- Pour éviter la concentration du pouvoir et garantir les libertés.\n- Pour empêcher une seule personne d'avoir tout le pouvoir.\n- Pour protéger les libertés des citoyens.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Pourquoi séparer les trois pouvoirs dans une démocratie ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 53,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "527681d0be0c8fef",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qui sanctionne l'auteur d'un vol ?\nRéponses :\n- Le pouvoir judiciaire (les juges).\n- La justice.\n- Un juge dans un tribunal.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui sanctionne l'auteur d'un vol ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 54,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "d3a3ba6dce160470",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel est le rôle du gouvernement ?\nRéponses :\n- Définir la politique de la Nation et mettre en œuvre les lois.\n- Déterminer et conduire la politique de la Nation.\n- Appliquer les lois votées par le Parlement.\n- Exécuter les lois et diriger l'administration.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le rôle du gouvernement ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 55,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "923d70d527e88b87",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Que se passe-t-il si un ministre ne respecte pas la loi ?\nRéponses :\n- Il peut perdre son poste de ministre et être jugé par la justice.\n- Il peut être renvoyé du gouvernement et jugé.\n- Il peut être jugé et puni par la justice, comme tout le monde.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 56,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "aaa22b278471a588",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Combien de députés composent l'Assemblée nationale ?\nRéponses :\n- 577",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Combien de députés composent l'Assemblée nationale ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 57,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "80509f70022babe7",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qui peut voter aux élections en France ?\nRéponses :\n- Les citoyens français majeurs.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui peut voter aux élections en France ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 58,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "9eaf92b8c73f52d3",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Pour combien de temps sont élus les sénateurs ?\nRéponses :\n- 6 ans",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Pour combien de temps sont élus les sénateurs ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 59,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "40f690209a15c028",
+    "text": "Thème : Système institutionnel et politique\nQuestion : La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?\nRéponses :\n- Législatif, exécutif, judiciaire.\n- Le pouvoir de faire les lois, d'appliquer les lois et de juger.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 60,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0449e6fbb0e6003b",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Est-ce que le président de la République a tous les pouvoirs ?\nRéponses :\n- Non, ses pouvoirs sont limités par la Constitution et la séparation des pouvoirs.\n- Non, il doit respecter la Constitution.\n- Non, il partage le pouvoir avec le Parlement et les juges.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Est-ce que le président de la République a tous les pouvoirs ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 61,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "2827b5c4507db69b",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qui est le préfet ?\nRéponses :\n- Le représentant de l'État dans le département.\n- Le représentant du gouvernement dans la région ou le département.\n- La personne chargée de la sécurité et de l'ordre public localement.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui est le préfet ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 62,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "45a67f7c0d5c926c",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quelle condition est nécessaire pour voter aux élections ?\nRéponses :\n- Être majeur et citoyen français.\n- Avoir 18 ans, être Français et être inscrit sur les listes électorales.\n- Avoir la nationalité française et être majeur (18 ans).\n- Ne pas avoir été privé de ses droits civiques.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle condition est nécessaire pour voter aux élections ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 63,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "43a99c256a7f0faa",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qui dirige la commune ?\nRéponses :\n- Le Maire.\n- Le Maire, assisté par le conseil municipal.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui dirige la commune ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 64,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "9459f8883ce79a80",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel est le régime politique de la France aujourd'hui ?\nRéponses :\n- Une République démocratique.\n- Une démocratie\n- Une République démocratique et laïque.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le régime politique de la France aujourd'hui ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 65,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "30766af0d95054cc",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qu'est-ce que l'Hôtel de Matignon ?\nRéponses :\n- Le siège du Premier ministre et du Gouvernement.\n- La résidence officielle du Premier ministre.\n- Le bureau du chef du gouvernement.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que l'Hôtel de Matignon ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 66,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0d0b297fa061c41d",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Le Parlement est composé :\nRéponses :\n- De l'Assemblée nationale et du Sénat.\n- Des députés et des sénateurs.\n- De deux chambres : l'Assemblée nationale (les députés) et le Sénat (les sénateurs).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Le Parlement est composé :",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 67,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c77312315aa0864e",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel est le rôle du président de la République ?\nRéponses :\n- Il est le Chef de l'État et des Armées.\n- Il nomme le Premier ministre et les ministres.\n- Il représente la France et commande les forces armées.\n- Il veille au respect de la Constitution et dirige l'État.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le rôle du président de la République ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 68,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "6b01ee6f11f5bc00",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel est le rôle du Premier ministre ?\nRéponses :\n- Diriger le Gouvernement et sa politique.\n- Diriger l'action du Gouvernement et appliquer les lois.\n- Prendre les décisions politiques quotidiennes avec ses ministres.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le rôle du Premier ministre ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 69,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c6f3ca49b23a242d",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Qui est le chef du Gouvernement ?\nRéponses :\n- Le Premier Ministre.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui est le chef du Gouvernement ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 70,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "987bcc2967973c95",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Combien y a-t-il de régions en France ?\nRéponses :\n- 18",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Combien y a-t-il de régions en France ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 71,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0c10fcbc15ace853",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel est le rôle du Défenseur des droits ?\nRéponses :\n- Défendre les citoyens contre les abus de l'administration.\n- Protéger les droits et libertés des citoyens.\n- Lutter contre les discriminations et aider les usagers face aux services publics.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le rôle du Défenseur des droits ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 72,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "8a23d4cd169fc7a9",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Depuis quand l'euro est-elle la monnaie unique ?\nRéponses :\n- 2002",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Depuis quand l'euro est-elle la monnaie unique ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 73,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "56c84ec03daabe2f",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel est le rôle principal du département ?\nRéponses :\n- Gérer les routes départementales et l'action sociale.\n- L'action sociale (aide aux personnes âgées, RSA) et les collèges.\n- Verser les aides sociales et entretenir les routes et les bâtiments des collèges.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le rôle principal du département ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 74,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "3feb10236974f68b",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel est le rôle principal des communes ?\nRéponses :\n- La gestion des services de proximité (état civil, écoles primaires).\n- Gérer l'état civil, les permis de construire et les écoles maternelles et primaires.\n- S'occuper de la vie locale, de la propreté, des écoles et des mariages.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le rôle principal des communes ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 75,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "f84b10433f954a1f",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Combien de communes environ existe-t-il en France ?\nRéponses :\n- 35 000",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Combien de communes environ existe-t-il en France ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 76,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c13544f16184df16",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel traité concerne la construction de l'Union européenne ?\nRéponses :\n- Le Traité de Maastricht.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel traité concerne la construction de l'Union européenne ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 77,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "38f9b67c997d4a41",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel État a quitté l'Union européenne en 2020 ?\nRéponses :\n- Le Royaume-Uni",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel État a quitté l'Union européenne en 2020 ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 78,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "096cff595d33e2a6",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quelle est la devise de l'Union européenne ?\nRéponses :\n- Unie dans la diversité.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est la devise de l'Union européenne ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 79,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e3d9e272b857de6c",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel est l'hymne de l'Union européenne ?\nRéponses :\n- L'Ode à la Joie.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est l'hymne de l'Union européenne ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 80,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "77e5b619a72db8fe",
+    "text": "Thème : Système institutionnel et politique\nQuestion : De quoi est composé le drapeau européen ?\nRéponses :\n- D'étoiles sur fond bleu.\n- De 12 étoiles jaunes placées en cercle.\n- De douze étoiles jaunes sur un fond bleu.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "De quoi est composé le drapeau européen ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 81,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e1e379f8a448b230",
+    "text": "Thème : Système institutionnel et politique\nQuestion : De quelle couleur est le drapeau européen ?\nRéponses :\n- Bleu",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "De quelle couleur est le drapeau européen ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 82,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "4149fad7cf1659b4",
+    "text": "Thème : Système institutionnel et politique\nQuestion : En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?\nRéponses :\n- 1992",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 83,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c571314caaf37b2d",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Où est le siège du Parlement européen ?\nRéponses :\n- Strasbourg",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Où est le siège du Parlement européen ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 84,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ee8ae2eee78e24a3",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Où est le siège de la Commission européenne ?\nRéponses :\n- Bruxelles",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Où est le siège de la Commission européenne ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 85,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "3bee480d9190bdc7",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel État n'est pas membre de l'Union européenne ?\nRéponses :\n- La Norvège.\n- La Suisse.\n- Le Royaume-Uni\n- L'Islande.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel État n'est pas membre de l'Union européenne ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 86,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "905cb196af077c06",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quand célèbre-t-on la journée de l'Europe ?\nRéponses :\n- Le 9 mai",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quand célèbre-t-on la journée de l'Europe ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 87,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "79e3077c993122ac",
+    "text": "Thème : Système institutionnel et politique\nQuestion : À quelle fréquence les élections européennes sont-elles organisées ?\nRéponses :\n- Tous les 5 ans",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À quelle fréquence les élections européennes sont-elles organisées ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 88,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ab69ff97ad15154b",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quelle condition est nécessaire pour voter aux élections européennes ?\nRéponses :\n- Être citoyen d'un pays de l'UE, résider en France et avoir 18 ans.\n- Avoir la nationalité d'un pays membre de l'UE et être majeur.\n- Être citoyen européen, être majeur et être inscrit sur les listes électorales.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 89,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "67fbb2410b2159df",
+    "text": "Thème : Système institutionnel et politique\nQuestion : Quel pays est un pays fondateur de l'Union européenne ?\nRéponses :\n- L'Allemagne.\n- La France\n- L'Italie.\n- La Belgique\n- Les Pays-Bas\n- Le Luxembourg.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel pays est un pays fondateur de l'Union européenne ?",
+      "date": null,
+      "theme": "Système institutionnel et politique",
+      "question_id": 90,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "f7659eaa76275d6c",
+    "text": "Thème : Droits et devoirs\nQuestion : À quelle liberté la PMA fait-elle référence ?\nRéponses :\n- La liberté de disposer de son corps (décider d'avoir un enfant).\n- La liberté de fonder une famille.\n- Le droit d'avoir des enfants et de créer une famille.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À quelle liberté la PMA fait-elle référence ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 91,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "546727ee543bcedf",
+    "text": "Thème : Droits et devoirs\nQuestion : Au nom de quoi l'État justifie-t-il la restriction des droits ?\nRéponses :\n- Au nom de l'ordre public (éviter les troubles, les violences).\n- Au nom de la sécurité publique et de la protection des droits des autres.\n- Pour protéger la santé publique.\n- Pour assurer la sécurité de tous les citoyens.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 92,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "db57ad92e566f086",
+    "text": "Thème : Droits et devoirs\nQuestion : Concernant le droit de se marier, quelle proposition est correcte ?\nRéponses :\n- Le mariage est un contrat civil, pour deux personnes majeures de même sexe ou de sexe différent.\n- C'est un acte civil autorisé pour tous les couples (un homme et une femme, ou deux personnes du même sexe).\n- Deux hommes ou deux femmes ont le droit de se marier à la mairie.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Concernant le droit de se marier, quelle proposition est correcte ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 93,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0a5548e157f8b492",
+    "text": "Thème : Droits et devoirs\nQuestion : Est-il toujours possible de divorcer ?\nRéponses :\n- Oui, le divorce est possible et encadré par la loi.\n- Oui, c'est un droit, même si l'autre époux refuse.\n- Oui, il existe plusieurs procédures légales pour divorcer.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Est-il toujours possible de divorcer ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 94,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "8fb5aadab111d0fe",
+    "text": "Thème : Droits et devoirs\nQuestion : La peine de mort est :\nRéponses :\n- Abolie\n- Interdite et abolie depuis 1981.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "La peine de mort est :",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 95,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c96d8a144df87228",
+    "text": "Thème : Droits et devoirs\nQuestion : Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?\nRéponses :\n- \"Les hommes naissent et demeurent libres et égaux en droits.\"\n- \"La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.\"\n- \"Nul ne doit être inquiété pour ses opinions, même religieuses.\"\n- \"Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable.\"",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 96,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "2e0f630cc5c3ea6c",
+    "text": "Thème : Droits et devoirs\nQuestion : Le recours à l'avortement est-il autorisé ?\nRéponses :\n- Oui, sous conditions et dans le respect de la loi.\n- Oui, l'interruption volontaire de grossesse (IVG) est autorisée.\n- Oui, c'est une liberté garantie par la Constitution.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Le recours à l'avortement est-il autorisé ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 97,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "2ca30e8105093b7b",
+    "text": "Thème : Droits et devoirs\nQuestion : Que contient la Constitution ?\nRéponses :\n- Les règles de base de l'organisation de l'État et les droits des citoyens.\n- Les règles qui organisent les pouvoirs publics (Président, Parlement) et nos droits.\n- Dans son préambule, la Déclaration des droits de l'homme et du citoyen de 1789.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que contient la Constitution ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 98,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "69bb181228dc2496",
+    "text": "Thème : Droits et devoirs\nQuestion : Que garantit la liberté de la presse ?\nRéponses :\n- Le droit pour les journalistes d'informer librement le public.\n- La liberté de publier des informations sans contrôle avant la publication.\n- La possibilité de publier des articles sans demander l'autorisation de l'État.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que garantit la liberté de la presse ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 99,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "926d1c8db477f5c4",
+    "text": "Thème : Droits et devoirs\nQuestion : Que prévoit la Charte de l'environnement ?\nRéponses :\n- Le droit de vivre dans un environnement équilibré et respectueux de la santé.\n- Le droit à un environnement sain.\n- Le devoir de protéger la nature pour l'avenir et le droit de vivre dans un milieu sain.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que prévoit la Charte de l'environnement ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 100,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e60175e36da5894f",
+    "text": "Thème : Droits et devoirs\nQuestion : Que signifie la dignité humaine ?\nRéponses :\n- Une personne ne doit jamais être traitée comme un objet ou un moyen.\n- Le respect absolu de chaque être humain, peu importe ses différences.\n- La reconnaissance de la valeur de chaque personne, quelles que soient ses différences.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que signifie la dignité humaine ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 101,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ed6c4e8e3fe68882",
+    "text": "Thème : Droits et devoirs\nQuestion : Que signifie le droit de manifester ?\nRéponses :\n- Le droit d'exprimer publiquement son opinion, souvent en groupe, pour attirer l'attention sur une cause.\n- Le droit de se rassembler dans la rue, sans violence, pour protester ou défendre une idée.\n- La liberté de faire une manifestation dans le respect de la loi.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que signifie le droit de manifester ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 102,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "60d02185b1539844",
+    "text": "Thème : Droits et devoirs\nQuestion : Que signifie PMA ?\nRéponses :\n- Procréation Médicalement Assistée",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que signifie PMA ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 103,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "7a8fa9276d8d5c34",
+    "text": "Thème : Droits et devoirs\nQuestion : Quel texte est le plus difficile à modifier ?\nRéponses :\n- La Constitution.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel texte est le plus difficile à modifier ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 104,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ad43affad00359da",
+    "text": "Thème : Droits et devoirs\nQuestion : Quelle liberté permet à une personne de croire en la religion de son choix ?\nRéponses :\n- La liberté de conscience.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle liberté permet à une personne de croire en la religion de son choix ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 105,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "6e6d394c0802a7c1",
+    "text": "Thème : Droits et devoirs\nQuestion : Qu'est-ce que le droit de grève ?\nRéponses :\n- Le droit pour les salariés de cesser collectivement le travail pour défendre leurs intérêts.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que le droit de grève ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 106,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "8e32f15898e7ebf3",
+    "text": "Thème : Droits et devoirs\nQuestion : Qu'est-ce que la Constitution ?\nRéponses :\n- Un ensemble de règles fondamentales qui définissent comment le pays est organisé et dirigé.\n- C'est le texte le plus important : il organise les pouvoirs et les droits.\n- La loi la plus importante de France (la loi suprême).\n- Le texte fondateur qui définit le rôle du Président, du Gouvernement et nos libertés.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que la Constitution ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 107,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "9f98d5f8563bb177",
+    "text": "Thème : Droits et devoirs\nQuestion : Qui peut demander à avorter ?\nRéponses :\n- Toute femme enceinte, dans les conditions fixées par la loi.\n- Toutes les femmes, majeures ou mineures, dans le délai autorisé par la loi.\n- N'importe quelle femme qui ne souhaite pas continuer sa grossesse.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui peut demander à avorter ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 108,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "dcc7c55f23cdec7c",
+    "text": "Thème : Droits et devoirs\nQuestion : Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?\nRéponses :\n- Oui, à condition d'être inscrite sur les listes électorales.\n- Oui, elle a exactement les mêmes droits de vote que les hommes.\n- Oui, pour toutes les élections, si elle est inscrite à la mairie.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 109,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "21b45914ddefd1fa",
+    "text": "Thème : Droits et devoirs\nQuestion : Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?\nRéponses :\n- Il faut respecter la vie privée des autres et ne pas écrire de messages de haine.\n- La loi s'applique sur internet comme dans la vraie vie (pas d'insultes, pas de racisme).\n- On doit respecter les autres, car on est responsable de ce qu'on écrit ou partage.\n- Avant 15 ans, on ne peut pas s'inscrire seul sur un réseau social (majorité numérique).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 110,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "2be58c9d2d8b298f",
+    "text": "Thème : Droits et devoirs\nQuestion : Jeter un mégot par terre est :\nRéponses :\n- Une infraction (un acte interdit par la loi) et une atteinte à l'environnement.\n- Un acte interdit par la loi et puni par une amende.\n- Une pollution punie par une amende.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Jeter un mégot par terre est :",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 111,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e28358b076e9a895",
+    "text": "Thème : Droits et devoirs\nQuestion : L'État peut-il limiter les droits et libertés ?\nRéponses :\n- Oui, si la loi le prévoit pour des raisons d'intérêt général.\n- Oui, pour protéger la sécurité ou la santé de tous (comme pendant une épidémie).\n- Oui, mais uniquement dans les cas prévus par la loi.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "L'État peut-il limiter les droits et libertés ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 112,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "aa6afcdf65058df9",
+    "text": "Thème : Droits et devoirs\nQuestion : Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l'environnement ?\nRéponses :\n- Trier ses déchets et réduire sa consommation d'eau.\n- Utiliser les transports en commun au lieu de la voiture.\n- Éteindre la lumière en sortant d'une pièce.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l'environnement ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 113,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "189a995c84c7afc2",
+    "text": "Thème : Droits et devoirs\nQuestion : Quelle proposition constitue une obligation ?\nRéponses :\n- Payer ses impôts.\n- Déclarer ses revenus tous les ans.\n- Respecter les lois de la République.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle proposition constitue une obligation ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 114,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "34542ea3a0861587",
+    "text": "Thème : Droits et devoirs\nQuestion : Pour quel motif peut-on limiter la liberté d'expression ?\nRéponses :\n- Pour tenir des propos racistes ou diffamatoires.\n- En cas de propos racistes, d'insultes ou d'appels à la haine.\n- Si les paroles attaquent la dignité d'une personne ou sa vie privée.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Pour quel motif peut-on limiter la liberté d'expression ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 115,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "39e45e70dad22a08",
+    "text": "Thème : Droits et devoirs\nQuestion : Pourquoi doit-on trier ses déchets ?\nRéponses :\n- Pour avoir moins de déchets jetés sans être réutilisés et pour recycler les matériaux.\n- Pour protéger l'environnement et réutiliser le plastique, le papier ou le verre.\n- Pour permettre le recyclage et moins polluer.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Pourquoi doit-on trier ses déchets ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 116,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "a7b063489c5fc2ad",
+    "text": "Thème : Droits et devoirs\nQuestion : Que doit faire une victime de violences ?\nRéponses :\n- Porter plainte et se faire aider par les autorités et les associations.\n- Aller au commissariat pour porter plainte.\n- Appeler la police ou les numéros d'urgence et porter plainte.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que doit faire une victime de violences ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 117,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "147bea678f9b8677",
+    "text": "Thème : Droits et devoirs\nQuestion : Que doit-on faire face aux ordres des policiers ou gendarmes ?\nRéponses :\n- Les respecter.\n- S'arrêter, rester calme et obéir à leurs consignes.\n- Accepter le contrôle et respecter leurs ordres.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que doit-on faire face aux ordres des policiers ou gendarmes ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 118,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "224b941984e80d9d",
+    "text": "Thème : Droits et devoirs\nQuestion : Quel est le rôle de la police ?\nRéponses :\n- Protéger les citoyens, maintenir l'ordre public et faire respecter la loi.\n- Assurer la sécurité de tous, arrêter les auteurs de délits et de crimes, et enquêter.\n- Protéger la population et arrêter ceux qui ne respectent pas la loi.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le rôle de la police ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 119,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e11856915547d21d",
+    "text": "Thème : Droits et devoirs\nQuestion : Quel est un exemple d'assistance à personne en danger ?\nRéponses :\n- Appeler les secours pour une personne qui a un malaise.\n- Appeler le SAMU ou les pompiers face à un accident.\n- Prévenir les secours quand quelqu'un est blessé dans la rue.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est un exemple d'assistance à personne en danger ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 120,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ac9e6bed0682017c",
+    "text": "Thème : Droits et devoirs\nQuestion : Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?\nRéponses :\n- La vaccination obligatoire des enfants.\n- L'interdiction d'une manifestation quand il existe un risque de violences.\n- Le port du masque pendant une épidémie.\n- L'obligation de rester chez soi (confinement) pendant une crise sanitaire.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 121,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "04c962327878b1d9",
+    "text": "Thème : Droits et devoirs\nQuestion : Quelle est l'attitude à avoir lorsque qu'on est témoin de violences ?\nRéponses :\n- Donner les premiers secours et appeler les secours si nécessaire.\n- Appeler la police (17) et aider la victime sans se mettre en danger.\n- Alerter les forces de l'ordre pour faire arrêter les violences.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est l'attitude à avoir lorsque qu'on est témoin de violences ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 122,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e3a4ae19f40bfc3a",
+    "text": "Thème : Droits et devoirs\nQuestion : Quelle est l'infraction la plus grave ?\nRéponses :\n- Le crime.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est l'infraction la plus grave ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 123,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "6eff2d29088ce77e",
+    "text": "Thème : Droits et devoirs\nQuestion : Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ?\nRéponses :\n- Respecter la loi française.\n- Obéir aux lois de la République.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 124,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "36903a73a336ec8f",
+    "text": "Thème : Droits et devoirs\nQuestion : Quelle proposition représente un exemple de crime ?\nRéponses :\n- Un meurtre ou un assassinat.\n- Un viol.\n- Un braquage (vol avec une arme).\n- Un acte de terrorisme.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle proposition représente un exemple de crime ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 125,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "42344e033dad0d91",
+    "text": "Thème : Droits et devoirs\nQuestion : Quelle proposition représente un exemple de délit ?\nRéponses :\n- Un vol.\n- La fraude fiscale.\n- Le harcèlement moral.\n- Conduire sans permis.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle proposition représente un exemple de délit ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 126,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "be26d5189eea70d3",
+    "text": "Thème : Droits et devoirs\nQuestion : Qui veille au maintien de l'ordre public ?\nRéponses :\n- Les forces de l'ordre (police et gendarmerie).\n- La police nationale et la gendarmerie.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui veille au maintien de l'ordre public ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 127,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0318ca0bbabef54a",
+    "text": "Thème : Droits et devoirs\nQuestion : S'agissant des déchets, quelle proposition est correcte ?\nRéponses :\n- Il est important de trier ses déchets pour le recyclage.\n- Il est interdit de jeter ses déchets en dehors des poubelles ou dans la nature (amende).\n- Depuis 2024, il faut trier ses déchets alimentaires et verts (compost).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "S'agissant des déchets, quelle proposition est correcte ?",
+      "date": null,
+      "theme": "Droits et devoirs",
+      "question_id": 128,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "9d8ab1cc74279513",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel était le surnom de Louis XIV ?\nRéponses :\n- Le Roi Soleil.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel était le surnom de Louis XIV ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 129,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "3ce53abb0f403cce",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel roi de France a été exécuté pendant la Révolution française ?\nRéponses :\n- Louis XVI.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel roi de France a été exécuté pendant la Révolution française ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 130,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c218abd2b576626e",
+    "text": "Thème : Histoire géographie et culture\nQuestion : En quelle année Napoléon Ier est-il devenu empereur ?\nRéponses :\n- 1804",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En quelle année Napoléon Ier est-il devenu empereur ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 131,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "61d1b7a827189c6e",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Lequel de ces personnages a un lien avec la République française ?\nRéponses :\n- Charles de Gaulle.\n- Le Général de Gaulle.\n- Marianne (le symbole de la République).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Lequel de ces personnages a un lien avec la République française ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 132,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "799c1d4d51de85f9",
+    "text": "Thème : Histoire géographie et culture\nQuestion : De quand date l'appel à la résistance du général de Gaulle ?\nRéponses :\n- 18 juin 1940.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "De quand date l'appel à la résistance du général de Gaulle ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 133,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "49c0c1a98037cc6d",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Pourquoi la Shoah est-elle étudiée à l'école ?\nRéponses :\n- Pour comprendre l'antisémitisme et empêcher que ces crimes horribles recommencent.\n- Pour ne pas oublier le génocide des Juifs et éviter que cela recommence.\n- Pour lutter contre la haine, le racisme et se souvenir des victimes.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Pourquoi la Shoah est-elle étudiée à l'école ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 134,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "831ce86f3905dae4",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel pays a été colonisé par la France ?\nRéponses :\n- L'Algérie.\n- Le Sénégal.\n- Le Vietnam (l'Indochine).\n- Madagascar.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel pays a été colonisé par la France ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 135,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "67a67838b66280a9",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?\nRéponses :\n- 1962",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 136,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0d00166b98ada169",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle est la première étape de la construction européenne en 1951 ?\nRéponses :\n- La création de la Communauté européenne du charbon et de l'acier (CECA).\n- La mise en commun du charbon et de l'acier entre six pays.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est la première étape de la construction européenne en 1951 ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 137,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "a16f09439d25b8c9",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Durant le mandat de quel président la peine de mort a-t-elle été abolie ?\nRéponses :\n- François Mitterrand",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Durant le mandat de quel président la peine de mort a-t-elle été abolie ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 138,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "d4a1010910dc0182",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel régime politique a été mis en place pendant la Révolution française en 1792 ?\nRéponses :\n- La Première République.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel régime politique a été mis en place pendant la Révolution française en 1792 ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 139,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "20bebf904e877230",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?\nRéponses :\n- Jean Moulin.\n- Le Général de Gaulle.\n- Joséphine Baker.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 140,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ba0c348caba48514",
+    "text": "Thème : Histoire géographie et culture\nQuestion : En 1944, qu'est-ce qui a changé pour les femmes ?\nRéponses :\n- Elles ont obtenu le droit de vote.\n- Le droit de vote et le droit d'être élues.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 141,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "3c190c007207c437",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?\nRéponses :\n- L'Organisation des Nations Unies (ONU).\n- L'ONU.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 142,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "bcdb0294a92aecb6",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle peine a été supprimée en 1981 ?\nRéponses :\n- La peine de mort.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle peine a été supprimée en 1981 ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 143,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "9b7d0fed8fa8c4c2",
+    "text": "Thème : Histoire géographie et culture\nQuestion : En quelle année l'euro est-elle devenue la monnaie utilisée en France ?\nRéponses :\n- 2002",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En quelle année l'euro est-elle devenue la monnaie utilisée en France ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 144,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "96de257c9e61e881",
+    "text": "Thème : Histoire géographie et culture\nQuestion : En quelle année a commencé la Première Guerre mondiale ?\nRéponses :\n- 1914",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En quelle année a commencé la Première Guerre mondiale ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 145,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "cefefac3eac12916",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Où a eu lieu le débarquement en 1944 ?\nRéponses :\n- En Normandie.\n- Sur les plages de Normandie.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Où a eu lieu le débarquement en 1944 ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 146,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0736b3700fec00fa",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?\nRéponses :\n- L'Afrique.\n- Le continent africain.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 147,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "2af6fd712c9c33c3",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Que fête-t-on le 8 mai ?\nRéponses :\n- La Victoire de 1945.\n- La fin de la Seconde Guerre mondiale en Europe.\n- La victoire des Alliés contre l'Allemagne nazie.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Que fête-t-on le 8 mai ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 148,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "927d33e811dd43a1",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle mer ou océan borde la France métropolitaine ?\nRéponses :\n- L'océan Atlantique.\n- La mer Méditerranée.\n- La Manche\n- La Mer du Nord.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle mer ou océan borde la France métropolitaine ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 149,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "a3bf937126ff2fcf",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel pays a une frontière terrestre avec la France métropolitaine ?\nRéponses :\n- La Suisse.\n- L'Espagne.\n- L'Italie.\n- L'Allemagne.\n- La Belgique.\n- Le Luxembourg.\n- Monaco.\n- Andorre.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel pays a une frontière terrestre avec la France métropolitaine ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 150,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "72e028c7c93fbc14",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle ville française est un port maritime ?\nRéponses :\n- Marseille.\n- Le Havre.\n- Dunkerque.\n- Nantes-Saint-Nazaire.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle ville française est un port maritime ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 151,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "03501b591a2c980f",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle mer se situe entre la France et l'Angleterre ?\nRéponses :\n- La Manche.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle mer se situe entre la France et l'Angleterre ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 152,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "bf5e564fe88940be",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Qu'est ce que la France d'outre-mer ?\nRéponses :\n- Les territoires français situés en dehors de la France métropolitaine.\n- L'ensemble des territoires français situés hors de l'Europe.\n- Les territoires de la République française en dehors du continent européen.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est ce que la France d'outre-mer ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 153,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "4b5315f6a3d89d0b",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle chaîne de montagnes est située entre la France et l'Espagne ?\nRéponses :\n- Les Pyrénées.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle chaîne de montagnes est située entre la France et l'Espagne ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 154,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c0bf4f454cbb989a",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle île française se trouve dans l'océan Indien ?\nRéponses :\n- La Réunion.\n- Mayotte.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle île française se trouve dans l'océan Indien ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 155,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "49c5ec480a4c8ab4",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle est la population approximative de la France en 2025 ?\nRéponses :\n- Environ 68 millions d'habitants (68,6 millions en 2025).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est la population approximative de la France en 2025 ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 156,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "a85252729586e8d8",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel fleuve traverse Paris ?\nRéponses :\n- La Seine.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel fleuve traverse Paris ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 157,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "92145d0d3c38557b",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Lequel de ces pays partage des frontières terrestres avec la France ?\nRéponses :\n- L'Italie.\n- L'Allemagne.\n- L'Espagne\n- La Belgique.\n- La Suisse\n- Le Luxembourg.\n- L'Andorre.\n- Monaco.\n- Le Brésil (par la Guyane).\n- Le Suriname (par la Guyane).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Lequel de ces pays partage des frontières terrestres avec la France ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 158,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "d2e52d3365d5b85f",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel pays a une frontière avec la France métropolitaine au nord-est ?\nRéponses :\n- L'Allemagne.\n- La Belgique.\n- Le Luxembourg.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel pays a une frontière avec la France métropolitaine au nord-est ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 159,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "7dfd59813b22a87f",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Où se trouvent les principales activités économiques en France ?\nRéponses :\n- Principalement dans les grandes métropoles et les zones industrielles.\n- Dans les grandes agglomérations (comme Paris, Lyon ou Marseille).\n- Dans les grandes zones urbaines et industrielles.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Où se trouvent les principales activités économiques en France ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 160,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "8242dc66f859d01c",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Parmi ces pays, lequel attire le plus de visiteurs chaque année ?\nRéponses :\n- La France.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Parmi ces pays, lequel attire le plus de visiteurs chaque année ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 161,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "5531b8b3e0286907",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Où habite la majorité des Français ?\nRéponses :\n- Dans les grandes villes et leurs périphéries (zones urbaines).\n- Dans les zones urbaines.\n- Dans les agglomérations (la ville et sa banlieue).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Où habite la majorité des Français ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 162,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "2bdea45ec71b927e",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle région est la plus peuplée ?\nRéponses :\n- L'Île-de-France.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle région est la plus peuplée ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 163,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "c77e3956cc38b95b",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle ville française fait partie des 10 plus grandes métropoles du pays ?\nRéponses :\n- Paris.\n- Marseille.\n- Lyon.\n- Toulouse.\n- Nice.\n- Nantes.\n- Montpellier.\n- Strasbourg.\n- Bordeaux.\n- Lille.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 164,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "743ecfeb09531d5f",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Lequel de ces départements de France est le plus touristique ?\nRéponses :\n- Paris.\n- Les Alpes-Maritimes (Nice, Cannes).\n- Le Var.\n- La Savoie ou la Haute-Savoie (le ski).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Lequel de ces départements de France est le plus touristique ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 165,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e48d5c2a04c1ed3f",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quand peut-on visiter gratuitement des lieux culturels en France ?\nRéponses :\n- Lors des Journées Européennes du Patrimoine.\n- En septembre, pendant les Journées du Patrimoine.\n- Lors des journées gratuites organisées par les musées publics.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quand peut-on visiter gratuitement des lieux culturels en France ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 166,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "979516e63c053bc3",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Combien de personnes parlent français dans le monde ?\nRéponses :\n- Plus de 300 millions.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Combien de personnes parlent français dans le monde ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 167,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "dd9f3636e370caf3",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Qui était Marguerite Yourcenar ?\nRéponses :\n- Une écrivaine.\n- La première femme élue à l'Académie française.\n- Une femme de lettres\n- Une romancière",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui était Marguerite Yourcenar ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 168,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "23b80b709ed57a8f",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel peintre est français ?\nRéponses :\n- Claude Monet.\n- Auguste Renoir.\n- Paul Cézanne.\n- Suzanne Valadon.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel peintre est français ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 169,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "a93dfd7adc847e54",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel musée est situé à Paris ?\nRéponses :\n- Le musée du Louvre.\n- Le musée d'Orsay.\n- Le Centre Pompidou.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel musée est situé à Paris ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 170,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "3268415ede5787ef",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Qui était Auguste Rodin ?\nRéponses :\n- Un sculpteur.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui était Auguste Rodin ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 171,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e087a3da1f062adf",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?\nRéponses :\n- Quatrième.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 172,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "218e3d47a3707078",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?\nRéponses :\n- La cathédrale Notre-Dame de Paris.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 173,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "fee3a803cef36c08",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Qui était une écrivaine française célèbre ?\nRéponses :\n- Simone de Beauvoir.\n- George Sand.\n- Marguerite Yourcenar.\n- Marguerite Duras.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui était une écrivaine française célèbre ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 174,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "8374f7ef138f975a",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Qui était un célèbre musicien français ?\nRéponses :\n- Claude Debussy.\n- Maurice Ravel.\n- Hector Berlioz.\n- Georges Bizet.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui était un célèbre musicien français ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 175,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "2af53e8543eaabea",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Qui était Auguste Renoir ?\nRéponses :\n- Un peintre.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui était Auguste Renoir ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 176,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "08ab15bc29d35f8e",
+    "text": "Thème : Histoire géographie et culture\nQuestion : Quelle fête est française ?\nRéponses :\n- Le 14 juillet (fête nationale).\n- La fête de la musique (21 juin).\n- Le 1er mai (fête du Travail).\n- Le 8 mai (Victoire de 1945).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle fête est française ?",
+      "date": null,
+      "theme": "Histoire géographie et culture",
+      "question_id": 177,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "18fdcd224031fc55",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quel mariage est reconnu par l'État ?\nRéponses :\n- Le mariage civil célébré à la mairie.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel mariage est reconnu par l'État ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 178,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "62bb0bcf8eebf277",
+    "text": "Thème : Vivre dans la société française\nQuestion : Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?\nRéponses :\n- La mairie.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 179,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "5dc2bfae0ab3a660",
+    "text": "Thème : Vivre dans la société française\nQuestion : En cas de divorce, qui exerce l'autorité parentale ?\nRéponses :\n- Les deux parents, sauf décision contraire du juge.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "En cas de divorce, qui exerce l'autorité parentale ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 180,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "632615c578d4c125",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?\nRéponses :\n- L'aide juridictionnelle.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 181,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "9e680ce35926876f",
+    "text": "Thème : Vivre dans la société française\nQuestion : Où faut-il déclarer la naissance d'un enfant ?\nRéponses :\n- À la mairie du lieu de naissance.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Où faut-il déclarer la naissance d'un enfant ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 182,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "026e9bdc18440ae7",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quelle est l'une des conditions pour passer l'examen du permis de conduire ?\nRéponses :\n- Réussir l'examen théorique (le code de la route).\n- Avoir au moins 17 ans.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est l'une des conditions pour passer l'examen du permis de conduire ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 183,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "b00a26392bcff86a",
+    "text": "Thème : Vivre dans la société française\nQuestion : Un bail locatif est valide s'il est :\nRéponses :\n- Écrit et signé par les deux parties.\n- Rédigé par écrit et signé par le propriétaire et le locataire.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Un bail locatif est valide s'il est :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 184,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "88a39c7690f2c159",
+    "text": "Thème : Vivre dans la société française\nQuestion : Où peut-on déposer un lave-vaisselle cassé ?\nRéponses :\n- Auprès d'un centre de recyclage ou d'une déchetterie.\n- À la déchetterie de sa commune.\n- Dans un centre de recyclage spécialisé.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Où peut-on déposer un lave-vaisselle cassé ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 185,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "7c8be9f14de92eb5",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quel numéro d'urgence permet d'appeler la police ?\nRéponses :\n- 17",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel numéro d'urgence permet d'appeler la police ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 186,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "5b50afa5bb648ebb",
+    "text": "Thème : Vivre dans la société française\nQuestion : Concernant l'accès aux soins, quelle proposition est correcte ?\nRéponses :\n- Toute personne vivant en France peut consulter un médecin, aller à l'hôpital ou à la pharmacie.\n- L'Assurance Maladie rembourse une partie des frais de santé.\n- La Sécurité sociale paie une partie des dépenses médicales.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 187,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "29719754639a402a",
+    "text": "Thème : Vivre dans la société française\nQuestion : À qui est accessible la contraception ?\nRéponses :\n- À toute personne, y compris aux mineurs.\n- À toutes les personnes, quel que soit leur âge ou leur situation.\n- À toute personne qui en fait la demande, même mineure.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À qui est accessible la contraception ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 188,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "1b792483010681bc",
+    "text": "Thème : Vivre dans la société française\nQuestion : Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?\nRéponses :\n- Le secret médical concernant les informations de santé d'un patient.\n- L'obligation pour le médecin de ne pas révéler les maladies de ses patients.\n- Le droit au respect de la vie privée médicale.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 189,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "87cf0c6b002b2c1a",
+    "text": "Thème : Vivre dans la société française\nQuestion : L'inscription à l'Assurance maladie est :\nRéponses :\n- Obligatoire pour toute personne résidant en France.\n- Une obligation légale pour les résidents stables et réguliers.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "L'inscription à l'Assurance maladie est :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 190,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "ccb25b86f75d52d9",
+    "text": "Thème : Vivre dans la société française\nQuestion : Qui peut demander un congé parental d'éducation ?\nRéponses :\n- Les pères et les mères salariés qui élèvent un enfant.\n- Les deux parents (le père ou la mère) qui travaillent.\n- Le père comme la mère, pour s'occuper d'un enfant après sa naissance.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui peut demander un congé parental d'éducation ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 191,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "3414602b250f2ed5",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quelles sont les affaires traitées par le conseil de prud'hommes ?\nRéponses :\n- Les litiges entre un salarié et son employeur.\n- Les conflits du travail entre le patron et l'employé.\n- Les problèmes liés au contrat de travail ou au licenciement.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 192,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "08a5f4a909d0368b",
+    "text": "Thème : Vivre dans la société française\nQuestion : Travailler sans être déclaré est :\nRéponses :\n- Un travail au noir, illégal et puni par la loi.\n- Un délit appelé \"travail dissimulé\".",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Travailler sans être déclaré est :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 193,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "6085863e3f450aeb",
+    "text": "Thème : Vivre dans la société française\nQuestion : Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :\nRéponses :\n- Il peut demander des heures supplémentaires, en respectant la loi (nombre maximum d'heures, salaire plus élevé).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 194,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "10a428eba1a127b8",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quelle est la mission de France Travail ?\nRéponses :\n- Accompagner les demandeurs d'emploi et les employeurs.\n- Aider les chômeurs à trouver du travail et les entreprises à recruter.\n- Verser les allocations chômage et orienter les chercheurs d'emploi.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelle est la mission de France Travail ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 195,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "e31bc008bc356424",
+    "text": "Thème : Vivre dans la société française\nQuestion : Dans une entreprise, le droit syndical permet :\nRéponses :\n- Aux salariés de se regrouper pour défendre leurs droits et intérêts professionnels.\n- De créer un syndicat ou de devenir membre d'un syndicat pour protéger les travailleurs.\n- Aux employés de discuter ensemble avec l'employeur pour obtenir des accords.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Dans une entreprise, le droit syndical permet :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 196,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "578a235d335cff7d",
+    "text": "Thème : Vivre dans la société française\nQuestion : Dans une entreprise, le droit de grève autorise :\nRéponses :\n- L'arrêt collectif et concerté du travail pour soutenir des revendications professionnelles.\n- De cesser le travail en groupe pour demander de meilleures conditions.\n- L'arrêt du travail par un groupe de salariés.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Dans une entreprise, le droit de grève autorise :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 197,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "f2cbb56320ebba54",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quelles sont les conditions pour toucher les allocations chômage ?\nRéponses :\n- Avoir travaillé suffisamment longtemps avant de perdre son travail de façon involontaire.\n- Avoir perdu son emploi (licenciement, fin de contrat), être inscrit à France Travail et chercher activement un emploi.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quelles sont les conditions pour toucher les allocations chômage ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 198,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "60057f1a1fe2411a",
+    "text": "Thème : Vivre dans la société française\nQuestion : Qu'est-ce que l'école maternelle ?\nRéponses :\n- Le début de la scolarité obligatoire (à partir de 3 ans) avant l'école élémentaire.\n- La première école pour les enfants de 3 à 5 ans.\n- La première étape de l'école pour les enfants avant l'âge de 6 ans.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qu'est-ce que l'école maternelle ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 199,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "135f86a6ce62cc30",
+    "text": "Thème : Vivre dans la société française\nQuestion : Comment s'appelle le diplôme passé par les élèves à la fin du collège ?\nRéponses :\n- Le brevet des collèges.\n- Le Diplôme National du Brevet (DNB).\n- Le brevet.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 200,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "394047a700735b03",
+    "text": "Thème : Vivre dans la société française\nQuestion : Les parents d'élève ont le droit de :\nRéponses :\n- Se porter candidat aux élections des représentants de parents d'élèves (ou voter à ces élections).\n- Rejoindre une association de parents d'élèves.\n- Demander un rendez-vous avec les enseignants pour discuter de la scolarité de leur enfant.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Les parents d'élève ont le droit de :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 201,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "06f8988a22b20db4",
+    "text": "Thème : Vivre dans la société française\nQuestion : Qui peut manger à la cantine scolaire ?\nRéponses :\n- Tous les enfants inscrits à l'école, sans discrimination.\n- Les élèves et le personnel de l'établissement scolaire.\n- Les enfants inscrits à l'école, les enseignants et le personnel.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Qui peut manger à la cantine scolaire ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 202,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "5d314970310dbe75",
+    "text": "Thème : Vivre dans la société française\nQuestion : À quel âge commence l'instruction obligatoire des enfants ?\nRéponses :\n- 3 ans",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À quel âge commence l'instruction obligatoire des enfants ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 203,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "1b1723dcda228938",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quel est l'âge de la majorité ?\nRéponses :\n- 18 ans",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel est l'âge de la majorité ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 204,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "febe5e4cdf050612",
+    "text": "Thème : Vivre dans la société française\nQuestion : À l'école, il est interdit aux parents de :\nRéponses :\n- Refuser, pour des raisons religieuses, un enseignement du programme ou une règle de l'école.\n- Perturber les cours ou faire du bruit dans l'établissement.\n- Interrompre le maître ou la maîtresse pendant la leçon.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À l'école, il est interdit aux parents de :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 205,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "224cc10feb8f2994",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quel motif d'absence est accepté par l'école ?\nRéponses :\n- Une raison de santé (maladie de l'enfant).\n- Une raison familiale (mariage, enterrement).",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quel motif d'absence est accepté par l'école ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 206,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "0ff073bcacb5d78c",
+    "text": "Thème : Vivre dans la société française\nQuestion : Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?\nRéponses :\n- Une amende de 7 500 euros et 6 mois d'emprisonnement.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 207,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "59337a27403c4b40",
+    "text": "Thème : Vivre dans la société française\nQuestion : Quand ont lieu les vacances scolaires de Noël ?\nRéponses :\n- Fin décembre et début janvier.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "Quand ont lieu les vacances scolaires de Noël ?",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 208,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  },
+  {
+    "id": "573093127224b2ae",
+    "text": "Thème : Vivre dans la société française\nQuestion : À l'école, un enfant en situation de handicap :\nRéponses :\n- Peut avoir un emploi du temps aménagé pour suivre ses soins.\n- A les mêmes droits à l'éducation que tous les enfants.\n- Doit être accueilli à l'école publique comme les autres enfants.\n- A le droit d'aller à l'école avec des aides adaptées à ses besoins.",
+    "source": "data-gouv-qcm-civique-resident.json",
+    "metadata": {
+      "title": "À l'école, un enfant en situation de handicap :",
+      "date": null,
+      "theme": "Vivre dans la société française",
+      "question_id": 209,
+      "licence": "Licence Ouverte 2.0 (Etalab)",
+      "answers_author": "leqcmcivique.fr"
+    }
+  }
+]
